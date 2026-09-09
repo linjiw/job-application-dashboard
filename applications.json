@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T17:02:29.854785+00:00",
+  "updatedAt": "2026-09-09T18:22:37.349395+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -6398,6 +6398,34 @@
       "progress": {
         "stage": "awaiting_review",
         "nextAction": "wait"
+      }
+    },
+    {
+      "id": 227,
+      "company": "Morgan Stanley",
+      "title": "2027 Machine Learning Research Associate Program - PhD (New York)",
+      "location": "New York, NY",
+      "url": "https://morganstanley.tal.net/vx/brand-0/spa-1/candidate/so/pm/1/pl/1/opp/20965-2027-Machine-Learning-Research-Associate-Program-PhD-New-York/en-GB",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-09T18:22:37+00:00",
+      "updatedAt": "2026-09-09T18:22:37+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T18:22:37+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-09T18:22:37+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     }
   ]
