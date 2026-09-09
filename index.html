@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Linji's job search: application progress, research disciplines, and submission timelines.">
+<meta name="theme-color" content="#2459f5"><meta name="robots" content="noindex,nofollow">
+<title>Next Chapter · Application tracker</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml"><link rel="stylesheet" href="styles.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#applications">Skip to applications</a>
+<aside class="sidebar">
+ <a class="brand" href="#"><span class="brand-icon">↗</span><span>next chapter<span class="brand-sub">LINJI’S APPLICATION TRACKER</span></span></a>
+ <div class="nav-label">WORKSPACE</div>
+ <nav aria-label="Main navigation"><a class="active" href="#overview">◫ <span>Overview</span></a><a href="#applications">☷ <span>Applications</span><span id="nav-count"></span></a><a href="#activity">◷ <span>Submission activity</span></a></nav>
+ <div class="side-note"><span class="mini-orbit">↗</span><strong>One step closer.</strong><p>A clear record of the work behind the next opportunity.</p></div>
+ <div class="profile"><span class="avatar">LW</span><div><strong>Linji Wang</strong><small>2027 · The next chapter</small></div></div>
+</aside>
+<main id="overview">
+ <header><div class="breadcrumb">Workspace <span>/</span> Overview</div><div class="freshness"><span class="live-dot"></span><span id="sync">Loading tracker…</span><button id="refresh" aria-label="Refresh application data" title="Refresh">↻</button></div></header>
+ <section class="intro"><div><div class="eyebrow">THE SEARCH, IN PERSPECTIVE</div><h1>Making moves<span>.</span></h1><p>Every application, every milestone. All in one place.</p></div><div class="date-chip" id="current-date"></div></section>
+ <div id="error" role="alert" hidden></div>
+ <section class="metrics" aria-label="Application summary">
+  <article class="metric primary"><span class="metric-label">Recorded submissions <span>↗</span></span><strong id="total">—</strong><span class="metric-foot" id="companies">Across your search</span><div class="metric-spark" aria-hidden="true">▁ ▂ ▂ ▃ ▄ ▃ ▅ ▆ █</div></article>
+  <article class="metric"><span class="metric-label">In conversation <span>◎</span></span><strong id="interviews">—</strong><span class="metric-foot">Interview or offer stage</span></article>
+  <article class="metric"><span class="metric-label">Needs attention <span>◷</span></span><strong id="attention">—</strong><span class="metric-foot">Input needed or unconfirmed</span></article>
+  <article class="metric daily"><div><span class="metric-label">Today’s focus</span><strong><span id="today">—</span><span class="goal-denom"> / 20</span></strong><span class="metric-foot" id="goal-caption">Daily submission goal</span></div><div class="ring" id="goal-ring"><span id="goal-percent">0%</span></div></article>
+ </section>
+ <section class="insights" id="activity">
+  <article class="panel activity"><div class="panel-heading"><div><h2>Steady progress</h2><p>Confirmed submissions · last 14 days</p></div><span class="legend"><i></i> Daily activity</span></div><div id="chart" class="chart" aria-label="Daily submission chart"></div><div class="chart-footer"><span>Small steps. Real momentum.</span><span id="chart-total"></span></div></article>
+  <article class="panel disciplines"><div class="panel-heading"><div><h2>Where you’re heading</h2><p>Submitted roles by discipline</p></div><span class="round-icon">⌁</span></div><div id="categories"></div></article>
+ </section>
+ <section class="panel application-panel" id="applications">
+  <div class="panel-heading"><div><h2>Your applications <span id="result-total" class="count-pill"></span></h2><p>A living record, from first look to final decision.</p></div><div class="view-toggle" aria-label="Display style"><button id="list-view" aria-pressed="true">☷ List</button><button id="timeline-view" aria-pressed="false">◷ Timeline</button></div></div>
+  <div class="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search company or role…" aria-label="Search company or role"></label><select id="category" aria-label="Filter by category"><option value="">All disciplines</option></select><select id="status" aria-label="Filter by status"><option value="">All statuses</option></select><select id="sort" aria-label="Sort applications"><option value="recent">Latest activity</option><option value="submitted">Latest submission</option><option value="company">Company A–Z</option></select><button id="clear" class="clear">Reset</button></div>
+  <div class="quick-filters" aria-label="Quick filters"><button data-filter="all" aria-pressed="true">All roles</button><button data-filter="submitted" aria-pressed="false">Submitted</button><button data-filter="attention" aria-pressed="false">Needs attention</button><button data-filter="today" aria-pressed="false">Today</button><span id="showing" role="status"></span></div>
+  <div id="results"><p class="empty">Loading your application history…</p></div>
+  <div class="pagination"><span id="page-info"></span><div><button id="prev" aria-label="Previous page">← Previous</button><button id="next" aria-label="Next page">Next →</button></div></div>
+ </section>
+ <footer><span><span class="footer-mark">↗</span> NEXT CHAPTER</span><span id="footnote">Dates in America/New_York · Statuses from the application tracker</span></footer>
+</main>
+<dialog id="detail"><button class="close" aria-label="Close application details">×</button><div id="detail-body"></div></dialog>
+</body></html>

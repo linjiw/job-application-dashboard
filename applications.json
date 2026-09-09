@@ -1,0 +1,5098 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-09T16:25:35.087836+00:00",
+  "timezone": "America/New_York",
+  "dailyGoal": 20,
+  "applications": [
+    {
+      "id": 1,
+      "company": "Figure",
+      "title": "Helix AI Engineer, Reinforcement Learning",
+      "location": "San Jose, CA",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4671707006",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-07-27T06:38:55+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Figure",
+      "title": "Reinforcement Learning Engineer – Whole Body Control",
+      "location": "San Jose, CA",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4671442006",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:47:09+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-07-27T06:38:55+00:00",
+      "updatedAt": "2026-09-03T04:47:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:47:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:47:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "company": "Figure",
+      "title": "Helix AI Engineer, Robot Learning",
+      "location": "San Jose, CA",
+      "url": "https://job-boards.greenhouse.io/figureai/jobs/4649851006",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T18:52:29+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-07-27T06:38:55+00:00",
+      "updatedAt": "2026-09-04T18:52:29+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T18:52:29+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T18:52:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "company": "Rippling",
+      "title": "Machine Learning Software Engineer Intern - Winter 2027",
+      "location": "San Francisco, CA or New York, NY",
+      "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
+      "category": "Machine Learning",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T06:38:55+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 5,
+      "company": "NVIDIA",
+      "title": "Research Scientist, Robotics Research - PhD New College Grad 2026",
+      "location": "Seattle, WA",
+      "url": "https://nvidia.eightfold.ai/careers/job/893392824102",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T06:38:55+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 6,
+      "company": "ByteDance Seed",
+      "title": "Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (PhD)",
+      "location": "Seattle, WA",
+      "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
+      "category": "Research & Applied AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T06:38:55+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 7,
+      "company": "Tesla AI",
+      "title": "Internship, RL Engineer, Tesla AI (Fall 2026)",
+      "location": "Palo Alto, CA",
+      "url": "https://www.tesla.com/careers/search/job/internship-rl-engineer-tesla-ai-fall-2026--275494",
+      "category": "Machine Learning",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T06:38:55+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 8,
+      "company": "Dexmate",
+      "title": "Robot Learning Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://jobs.ashbyhq.com/dexmate/aa3a9b20-0a00-4ec2-a9de-b5062e1cde68",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:36:29+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T06:36:29+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:36:29+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:36:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "company": "ByteDance",
+      "title": "Research Scientist - Recommendation Modeling & Large-scale Computing Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://joinbytedance.com/search/7631317232770500869",
+      "category": "Research & Applied AI",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 10,
+      "company": "Path Robotics",
+      "title": "Machine Learning Engineer, Robot Learning",
+      "location": "Columbus, OH",
+      "url": "https://job-boards.greenhouse.io/pathrobotics/jobs/8116143002",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T18:53:28+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-04T18:53:28+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T18:53:28+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T18:53:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "company": "UnitX",
+      "title": "Embodied AI Engineer",
+      "location": "HQ",
+      "url": "https://jobs.ashbyhq.com/unitxlabs/7c4bbb10-9c9a-47aa-879a-2c50c297b1d4",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "ready",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "company": "Dexmate",
+      "title": "Reinforcement Learning Engineer",
+      "location": "Fremont, CA",
+      "url": "https://jobs.ashbyhq.com/dexmate/b96cfe35-f521-4322-90e9-aeaf9aeed3a9",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:22:01+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-07T02:22:01+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:03:08+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-03T05:03:08+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:22:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "company": "ByteDance",
+      "title": "Student Researcher (LLM - Seed) - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://joinbytedance.com/search/7623539152655632693",
+      "category": "RL & Language Models",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 14,
+      "company": "Thinking Machines Lab",
+      "title": "Research Engineer, Infrastructure, RL Systems",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/thinkingmachines/jobs/5013930008",
+      "category": "Research & Applied AI",
+      "status": "expired",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T06:43:26+00:00",
+      "history": [
+        {
+          "status": "expired",
+          "at": "2026-09-05T06:43:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "company": "LG Electronics",
+      "title": "Embodied AI Engineer",
+      "location": "Englewood Cliffs, NJ; Santa Clara, CA",
+      "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5369133008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:31:35+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-06T00:14:34+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:31:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "company": "Persona AI",
+      "title": "Reinforcement Learning Engineer, Grasping",
+      "location": "Houston, TX",
+      "url": "https://jobs.ashbyhq.com/persona.ai/2e1ad9ed-cc2e-436d-93eb-76a5bff239c8",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:27:05+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T15:27:05+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T18:54:52+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-04T18:54:52+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:27:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "company": "Eka Robotics",
+      "title": "Machine Learning / Reinforcement Learning Engineer",
+      "location": "Boston Area",
+      "url": "https://jobs.ashbyhq.com/ekarobotics/487c6c9c-d87a-4ae1-86c3-1ee53b5ffe84",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "company": "FieldAI",
+      "title": "Humanoid Engineer, Manipulation",
+      "location": "Irvine, CA",
+      "url": "https://jobs.lever.co/field-ai/0d9c37e2-47ae-45f9-8e5d-cc0eccd499f4",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T23:46:53+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:46:53+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:46:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "company": "Physical Intelligence",
+      "title": "Research Internships",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/f020ff1a-4b4c-4415-8434-2da5010a7076",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "company": "Physical Intelligence",
+      "title": "Robotics Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/e4301617-e5fb-413d-bc41-41a2d5e6b67e",
+      "category": "Robotics & Physical AI",
+      "status": "expired",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-03T04:35:23+00:00",
+      "history": [
+        {
+          "status": "expired",
+          "at": "2026-09-03T04:35:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "company": "Anthropic",
+      "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
+      "location": "San Francisco, CA; New York, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
+      "category": "RL & Language Models",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 22,
+      "company": "Anthropic",
+      "title": "Research Engineer, Code RL (Reinforcement Learning)",
+      "location": "San Francisco, CA; New York, NY",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5254364008",
+      "category": "RL & Language Models",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 23,
+      "company": "ByteDance",
+      "title": "Research Scientist in Multimodal Interaction and World Model - Seed - Graduates - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://joinbytedance.com/search/7623543401908848949",
+      "category": "Research & Applied AI",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 24,
+      "company": "ByteDance",
+      "title": "Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "Seattle, WA",
+      "url": "https://joinbytedance.com/search/7629847900210399493",
+      "category": "Research & Applied AI",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 25,
+      "company": "TikTok",
+      "title": "Research Scientist - TikTok Search (Generative AI) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7628321017978767621",
+      "category": "Research & Applied AI",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 26,
+      "company": "TikTok",
+      "title": "Research Scientist, Video Generation (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7630999744861718837",
+      "category": "Research & Applied AI",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 27,
+      "company": "Allen Institute for AI (Ai2)",
+      "title": "Robotics Engineer",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7848655",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T18:58:33+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-04T18:58:33+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T18:58:33+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T18:58:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "company": "Noble Machines",
+      "title": "Robotics Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4163600009",
+      "category": "Robotics & Physical AI",
+      "status": "expired",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-03T04:35:23+00:00",
+      "history": [
+        {
+          "status": "expired",
+          "at": "2026-09-03T04:35:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "company": "ByteDance",
+      "title": "Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://joinbytedance.com/search/7623525222555961605",
+      "category": "RL & Language Models",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 30,
+      "company": "ByteDance",
+      "title": "Applied Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://joinbytedance.com/search/7629488401364060469",
+      "category": "RL & Language Models",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 31,
+      "company": "Moonlake",
+      "title": "Member of Technical Staff - Simulation Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/moonlake/78e20936-77eb-4f2e-ae17-053b5808341c",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "ready",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "company": "Persona AI",
+      "title": "Software Engineering Intern",
+      "location": "Houston, TX or Pensacola, FL",
+      "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 33,
+      "company": "Apple",
+      "title": "Machine Learning and Artificial Intelligence PhD Internships",
+      "location": "Various locations within the United States",
+      "url": "https://jobs.apple.com/en-us/details/200664223-3810/machine-learning-and-artificial-intelligence-phd-internships",
+      "category": "Machine Learning",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 34,
+      "company": "Etched",
+      "title": "Inference Intern - Summer 2027",
+      "location": "San Jose, CA",
+      "url": "https://jobs.ashbyhq.com/etched/aa17bfa2-2922-4aa7-820d-76064f2551a8",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 35,
+      "company": "QuantCo",
+      "title": "Data Science Intern",
+      "location": "Boston, MA or San Francisco, CA",
+      "url": "https://jobs.lever.co/quantco-/09da5ced-a2fc-4cf1-9013-c177bb673e02",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 36,
+      "company": "Deepgram",
+      "title": "Software Engineering - Internship (Fall 2026/Summer 2027)",
+      "location": "United States - Remote",
+      "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 37,
+      "company": "TikTok",
+      "title": "Research Scientist Intern - TikTok Recommendation (NextGen LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7633668061979543813",
+      "category": "RL & Language Models",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 38,
+      "company": "Maven Robotics",
+      "title": "Machine Learning Engineer - Robot Manipulation",
+      "location": "San Francisco Bay Area, CA",
+      "url": "https://job-boards.greenhouse.io/mavenrobotics/jobs/4139600008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:30:22+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T15:30:22+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T15:20:12+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-05T15:20:12+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:30:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "company": "Etched",
+      "title": "Infrastructure Intern - Summer 2027",
+      "location": "San Jose, CA",
+      "url": "https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 40,
+      "company": "Etched",
+      "title": "Supercomputing Intern - Summer 2027",
+      "location": "San Jose, CA",
+      "url": "https://jobs.ashbyhq.com/etched/2d7039e2-190e-4039-b5a9-fff9efa7cc8e",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 41,
+      "company": "Virtu Financial",
+      "title": "2027 Internship - Quantitative Researcher (PhD)",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8624424002",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 42,
+      "company": "Hudson River Trading",
+      "title": "Software Engineering Internship (C++ or Python) - Summer 2027",
+      "location": "New York, NY; Austin, TX; Chicago, IL",
+      "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 43,
+      "company": "Google DeepMind",
+      "title": "Research Engineer, Multimodal Reasoning For Information Literacy",
+      "location": "Mountain View, CA",
+      "url": "https://job-boards.greenhouse.io/deepmind/jobs/7171371",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:35:02+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T15:35:02+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:35:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "company": "TikTok",
+      "title": "Research Scientist, World Models (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7631001257579104565",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 45,
+      "company": "TikTok",
+      "title": "Research Scientist, Intelligent Editing and AI Agent (Multimodality) Graduate (Intelligent Creation) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7631002754433665333",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 46,
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern - Scenario Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320",
+      "category": "Robotics & Physical AI",
+      "status": "expired",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 47,
+      "company": "OpenAI",
+      "title": "Research Engineer / Research Scientist - Personal AGI, Personality and Model Behavior",
+      "location": "San Francisco, CA",
+      "url": "https://openai.com/careers/research-engineer-research-scientist-personal-agi-personality-and-model-behavior-san-francisco",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T15:08:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "company": "TikTok",
+      "title": "Research Scientist - TikTok Recommendation (NextGen LLM) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7633605978976520453",
+      "category": "RL & Language Models",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 49,
+      "company": "TikTok",
+      "title": "Applied Scientist - AI-3D Creation Engine - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7628890438180407557",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 50,
+      "company": "TikTok",
+      "title": "Applied Scientist - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7629210093117294901",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 51,
+      "company": "TikTok",
+      "title": "Research Scientist Intern - E-commerce Recommendation (LLM Applications) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "Seattle, WA",
+      "url": "https://lifeattiktok.com/search/7629188397976586501",
+      "category": "RL & Language Models",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 52,
+      "company": "TikTok",
+      "title": "Applied Scientist Intern - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+      "location": "San Jose, CA",
+      "url": "https://lifeattiktok.com/search/7631062649025857797",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 53,
+      "company": "Hudson River Trading",
+      "title": "Algorithm Development (Quant Research & Trading) PhD Internship - Summer 2027",
+      "location": "New York, NY",
+      "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-phd-internship-summer-2027",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 54,
+      "company": "Hudson River Trading",
+      "title": "Algorithm Development (Quant Research & Trading) Internship - Summer 2027",
+      "location": "New York, NY",
+      "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 55,
+      "company": "Jane Street",
+      "title": "Machine Learning Engineer Internship, May-August",
+      "location": "New York, NY",
+      "url": "https://www.janestreet.com/join-jane-street/position/8611307002",
+      "category": "Machine Learning",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 56,
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern - Scenario Generation",
+      "location": "Santa Clara, CA",
+      "url": "https://jobs.lever.co/plus-2/1432ed29-d5e2-4348-acc4-9c42bf0897e2",
+      "category": "Machine Learning",
+      "status": "expired",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 57,
+      "company": "ByteDance",
+      "title": "Software Development Engineer - AI/LLM Network - Global Frontier Tech Research Program - 2027 Start (PhD)",
+      "location": "Seattle, WA",
+      "url": "https://joinbytedance.com/search/7631372899367340293",
+      "category": "RL & Language Models",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-07-27T07:20:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 58,
+      "company": "Persona AI",
+      "title": "Machine Learning Internship, Manipulation",
+      "location": "Houston, TX",
+      "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630",
+      "category": "Machine Learning",
+      "status": "skipped",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-01T04:41:25+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "skipped",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "company": "Gritt",
+      "title": "Robot Learning Engineer Intern",
+      "location": "South San Francisco",
+      "url": "https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "ready",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "company": "Dexmate",
+      "title": "Research Intern, PhD (AI, Robotics)",
+      "location": "Fremont Office",
+      "url": "https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "company": "Dyna Robotics",
+      "title": "Research Internship",
+      "location": "Redwood City, CA",
+      "url": "https://jobs.ashbyhq.com/dyna-robotics/5a431519-ee6b-4cb7-8a3a-422727053a09",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "company": "Verne Robotics",
+      "title": "Engineering Intern",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/verne%20robotics/bb78cdd4-449b-49f0-bd10-2c62fc85f83b",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-05T23:19:31+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:19:31+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:19:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "company": "1X",
+      "title": "AI Residency",
+      "location": "San Carlos, CA",
+      "url": "https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "company": "Generalist",
+      "title": "Research Assistant",
+      "location": "San Francisco Bay Area (San Mateo) or Boston (Somerville)",
+      "url": "https://jobs.ashbyhq.com/generalist/fc7c7b49-248a-4849-a473-a0bd246e5486",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 65,
+      "company": "Waymo",
+      "title": "Research Scientist, RL for Autonomous Planning & World Modeling",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8165872",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:42:29+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-05T15:42:29+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:42:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "company": "Path Robotics",
+      "title": "Machine Learning Engineer, Robot Learning, Loco-Manipulation",
+      "location": "Columbus, Ohio",
+      "url": "https://boards.greenhouse.io/pathrobotics/jobs/8501710002?gh_jid=8501710002",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T05:07:08+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-01T05:07:08+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T05:07:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "company": "Apptronik",
+      "title": "Reinforcement Learning Engineer",
+      "location": "Austin, TX",
+      "url": "https://boards.greenhouse.io/apptronik/jobs/6135669004?gh_jid=6135669004",
+      "category": "RL & Language Models",
+      "status": "skipped",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-01T04:41:25+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "skipped",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "company": "The Bot Company",
+      "title": "Machine Learning: Whole-Body Control",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/thebotcompany/69c93a4a-161a-49c9-89bc-4c3e0c4716e6",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:28:05+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-05T15:28:05+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-03T05:03:08+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:28:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "company": "Allen Institute for AI (Ai2)",
+      "title": "Research Scientist, Robotics",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7848623",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:52:26+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-03T04:52:26+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:52:26+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:52:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "company": "Moonlake",
+      "title": "Member of Technical Staff - Robotics & Simulation",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/moonlake/1a2382e1-5a47-4443-9417-62c87075f6e9",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:31:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-01T03:10:59+00:00",
+      "updatedAt": "2026-09-05T06:31:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:31:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:31:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Ph.D. Research Robotics",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:11:46+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Ph.D. Research Graphics and Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Graphics-and-Simulation_JR2023835",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:11:46+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "company": "Allen Institute for AI (Ai2)",
+      "title": "Young Investigator, Robotics",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7852135",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:13:11+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "company": "Persona AI",
+      "title": "Robotics Software Internship, Manipulation",
+      "location": "Houston, TX",
+      "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc",
+      "category": "Robotics & Physical AI",
+      "status": "skipped",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:13:11+00:00",
+      "updatedAt": "2026-09-01T04:41:25+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:03+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "skipped",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "company": "LG Electronics",
+      "title": "Embodied AI Researcher (R&D Lab)",
+      "location": "Englewood Cliffs, NJ",
+      "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/4946382008",
+      "category": "Robotics & Physical AI",
+      "status": "expired",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:13:11+00:00",
+      "updatedAt": "2026-09-01T04:41:25+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "expired",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "company": "Maven Robotics",
+      "title": "Machine Learning Engineer - Robot Manipulation",
+      "location": "San Francisco Bay Area, California USA",
+      "url": "https://boards.greenhouse.io/mavenrobotics/jobs/4139600008?gh_jid=4139600008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:36:05+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-01T03:13:11+00:00",
+      "updatedAt": "2026-09-03T04:36:05+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:14:04+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:14:22+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:36:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "company": "WeRide",
+      "title": "New Grads 2027 - Software Engineer, Algorithm",
+      "location": "San Jose, CA",
+      "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "company": "Horizon Robotics",
+      "title": "Research Scientist",
+      "location": "Cupertino, CA",
+      "url": "https://jobs.lever.co/horizon/81ef015f-fdbf-4b7e-ac6e-1e066b6d1828",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "ready",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Ph.D. Research Autonomous Vehicles",
+      "location": "Santa Clara, CA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "company": "Metamorphic",
+      "title": "Machine Learning Research Scientist, Embodied AI & Reinforcement Learning",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.ashbyhq.com/metamorphic/549c8d6c-9477-4daa-8cf8-0b3d7f339d96",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:29:35+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-03T04:29:35+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-03T04:28:55+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:29:35+00:00"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "company": "Nuro",
+      "title": "Machine Learning Research Scientist, Behavior Planning and Prediction",
+      "location": "Mountain View, CA",
+      "url": "https://nuro.ai/careersitem?gh_jid=5434059",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:58:06+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-03T04:58:06+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:58:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "company": "PlusAI",
+      "title": "Senior Simulation Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://jobs.lever.co/plus-2/4572f534-2f3c-4d4c-9fb0-55838bf7795f",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-01T04:55:09+00:00",
+      "submittedDay": "2026-09-01",
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "ready",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-01T04:55:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "company": "Amazon",
+      "title": "Postdoctoral Scholar, SAF Lab / Compass",
+      "location": "Pasadena, CA",
+      "url": "https://amazon.jobs/en/jobs/10455363/postdoctoral-scholar-saf-lab-compass",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "company": "Basis Research Institute",
+      "title": "Research Scientist, Reinforcement Learning",
+      "location": "New York, NY or Cambridge, MA",
+      "url": "https://jobs.ashbyhq.com/basis-research/f3bf27eb-f5fe-4b7d-9964-2eebe22b4ecd",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:37:46+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-05T06:37:46+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:37:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "company": "Waymo",
+      "title": "Research Scientist, Prediction & Planning",
+      "location": "Mountain View, CA; San Francisco, CA; New York, NY",
+      "url": "https://careers.withwaymo.com/jobs/research-scientist-prediction-planning-mountain-view-california-united-states-new-york-city-new-york-san-francisco",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:42:53+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-01T03:25:20+00:00",
+      "updatedAt": "2026-09-05T15:42:53+00:00",
+      "history": [
+        {
+          "status": "shortlisted",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-09-01T03:25:42+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:42:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "company": "Physical Intelligence",
+      "title": "Research Scientist",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/f83ba447-2261-4832-95db-a2f88454e0ba",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:32:49+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:32:10+00:00",
+      "updatedAt": "2026-09-03T04:32:49+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:32:49+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:32:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "company": "Generalist",
+      "title": "Research Scientist: Post-Training",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/generalist/f08058fd-3aaf-45e7-8240-28193f65b822",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:32:49+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:32:10+00:00",
+      "updatedAt": "2026-09-03T04:32:49+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:32:49+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:32:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "company": "Noble Machines",
+      "title": "Robotics Software Engineer",
+      "location": "Not specified",
+      "url": "https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4286827009",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:36:30+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:35:23+00:00",
+      "updatedAt": "2026-09-03T04:36:30+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:36:30+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:36:30+00:00"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "company": "Dyna Robotics",
+      "title": "Research Engineer/Scientist, Simulation",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/dyna-robotics/942cd530-b2b7-4141-8aaa-d844175e26ac",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:43:15+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:37:54+00:00",
+      "updatedAt": "2026-09-03T04:43:15+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:43:15+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:43:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "company": "Sunday Robotics",
+      "title": "Machine Learning Research Engineer/Scientist",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/sunday/38ac9ff8-2d68-40a8-9733-1709dd34023d",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:45:02+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:37:54+00:00",
+      "updatedAt": "2026-09-03T04:45:02+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:45:02+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:45:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "company": "Skild AI",
+      "title": "Machine Learning Engineer, Reinforcement Learning",
+      "location": "Not specified",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4125333008",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:45:40+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:44:27+00:00",
+      "updatedAt": "2026-09-03T04:45:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:45:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:45:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "company": "Thinking Machines Lab",
+      "title": "Research, Post-Training",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/ThinkingMachines/3efb6896-4840-4f90-8798-2ce49fa146e5",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:49:09+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:47:52+00:00",
+      "updatedAt": "2026-09-03T04:49:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:49:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:49:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "company": "Bedrock Robotics",
+      "title": "Machine Learning Engineer: Imitation and Reinforcement Learning for Robotics",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/90558d16-8adb-4c62-a0fc-8fdfa809c0ca",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:52:27+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:49:29+00:00",
+      "updatedAt": "2026-09-03T04:52:27+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:52:27+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:52:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "company": "FieldAI",
+      "title": "Research Team, General Interest (Boston)",
+      "location": "Not specified",
+      "url": "https://jobs.lever.co/field-ai/28c1e63a-c4d0-4297-9bde-fa6d598074cc",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-03T04:49:29+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": []
+    },
+    {
+      "id": 95,
+      "company": "1X",
+      "title": "AI Researcher - Reinforcement Learning",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/1x/a5ad1287-e0a0-471d-9a65-cc24c62b6664",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T04:52:55+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:51:30+00:00",
+      "updatedAt": "2026-09-03T04:52:55+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:52:55+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T04:52:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "company": "Innate",
+      "title": "Open Application — Robot Learning / Research Engineering",
+      "location": "Bay Area, CA",
+      "url": "https://jobs.ashbyhq.com/innate/dce6c0ec-068b-484b-bf12-f8d65ad06faf",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:48:45+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-03T04:54:33+00:00",
+      "updatedAt": "2026-09-05T23:48:45+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T04:57:33+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-03T04:57:33+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:48:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "company": "Agility Robotics",
+      "title": "Senior AI Software Engineer, Reinforcement Learning",
+      "location": "Not specified",
+      "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6127693004",
+      "category": "RL & Language Models",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-03T04:54:33+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:17:20+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-03T05:17:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "company": "Lila Sciences",
+      "title": "Research Engineer, Frontier Capabilities",
+      "location": "Not specified",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4031323009",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T05:01:49+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T04:57:15+00:00",
+      "updatedAt": "2026-09-03T05:01:49+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:01:49+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T05:01:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "company": "Institute of Foundation Models",
+      "title": "Research Scientist - Reinforcement Learning",
+      "location": "Not specified",
+      "url": "https://jobs.lever.co/ifm-us/d8b60486-03aa-4ba1-9634-b2b49f9e09d4",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T05:04:28+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T05:01:06+00:00",
+      "updatedAt": "2026-09-03T05:04:28+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:04:28+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T05:04:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "company": "DatologyAI",
+      "title": "Research Scientist",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/DatologyAI/d5090b17-8b58-42ee-afa6-fd9162e55372",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:46:06+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-03T05:09:53+00:00",
+      "updatedAt": "2026-09-05T23:46:06+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:10:03+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-03T05:10:03+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:46:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "company": "Reflection",
+      "title": "Member of Technical Staff - Post-Training",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/reflectionai/13e02dca-e042-4ad0-bbbe-be6b09a98211",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T05:11:17+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T05:09:53+00:00",
+      "updatedAt": "2026-09-03T05:11:17+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:11:17+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T05:11:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "company": "Prime Intellect",
+      "title": "Research Engineer - Reinforcement Learning",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/PrimeIntellect/ee13090e-3fea-40f0-b785-19316f52bf08",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T05:14:05+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T05:13:40+00:00",
+      "updatedAt": "2026-09-03T05:14:05+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:14:05+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T05:14:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "company": "Toyota Research Institute",
+      "title": "Senior Research Scientist, Robotics Research",
+      "location": "Not specified",
+      "url": "https://jobs.lever.co/tri/d519894c-7feb-430c-9d40-2d9a4a687534",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-03T05:13:40+00:00",
+      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:17:20+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-03T05:17:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "company": "Mirendil",
+      "title": "Member of Technical Staff, Model Evaluation",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/mirendil/2c7c136a-b24b-456f-afb3-d5530bad84b5",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T05:15:16+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T05:14:52+00:00",
+      "updatedAt": "2026-09-03T05:15:16+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:15:16+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T05:15:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "company": "Rhoda AI",
+      "title": "Research Member of Technical Staff- Post-training & Robot Learning",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/2be00e8d-a7dd-44a8-86f8-94a2b848c40e",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-03T05:16:13+00:00",
+      "submittedDay": "2026-09-03",
+      "addedAt": "2026-09-03T05:15:35+00:00",
+      "updatedAt": "2026-09-03T05:16:13+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-03T05:16:13+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-03T05:16:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "company": "Deft AI, Inc.",
+      "title": "Research Scientist",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/deft-ai/7339af06-7a63-4221-b131-d6aa361fa419",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T18:30:03+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T18:29:53+00:00",
+      "updatedAt": "2026-09-04T18:30:03+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T18:30:03+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T18:30:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "company": "LiveKit",
+      "title": "Research Engineer (Reinforcement Learning)",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/livekit/b0c02c3f-790f-4cd8-960d-220800d35367",
+      "category": "RL & Language Models",
+      "status": "skipped",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-04T19:00:21+00:00",
+      "updatedAt": "2026-09-05T15:18:49+00:00",
+      "history": [
+        {
+          "status": "skipped",
+          "at": "2026-09-05T15:18:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "company": "Skild AI",
+      "title": "Deep Learning Manipulation Engineer",
+      "location": "Pittsburgh, PA / San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4408092008",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:03:23+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:03:23+00:00",
+      "updatedAt": "2026-09-04T19:03:23+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:03:23+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:03:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "company": "Bespoke Labs",
+      "title": "Research Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/bespokelabs/2a909b5d-f17a-4a52-bcd3-b38af612d95c",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:05:54+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:05:54+00:00",
+      "updatedAt": "2026-09-04T19:05:54+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:05:54+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:05:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "company": "Cognition",
+      "title": "Research Engineer, Post-Training",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/cognition/72d3db28-07d3-4c28-b49f-1bdf6e8e0f10",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:07:25+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:07:25+00:00",
+      "updatedAt": "2026-09-04T19:07:25+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:07:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:07:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "company": "World Labs",
+      "title": "Research Engineer / Scientist (Robot Learning)",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/worldlabs/jobs/4333272009",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:08:02+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:08:02+00:00",
+      "updatedAt": "2026-09-04T19:08:02+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:08:02+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:08:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "company": "Asari AI",
+      "title": "Member of Technical Staff - Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/asari.ai/53c6404c-4fe5-4685-86ed-f6661b0fccf2",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:58:09+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:57:54+00:00",
+      "updatedAt": "2026-09-04T19:58:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:58:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:58:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "company": "Deepgram",
+      "title": "Research Engineer, Machine Learning Systems",
+      "location": "USA Remote; Ann Arbor, MI; San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/Deepgram/9a030b32-d671-43e0-a221-4653bb73ba29",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:58:09+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:57:54+00:00",
+      "updatedAt": "2026-09-04T19:58:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:58:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:58:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "company": "Eventual",
+      "title": "Research Engineer, Multimodal Data",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/eventualcomputing/20e2b01d-969b-454b-98f6-bdce0af5b32c",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:58:09+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:57:54+00:00",
+      "updatedAt": "2026-09-04T19:58:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:58:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:58:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "company": "Plato",
+      "title": "Member of Technical Staff, Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/plato.so/b341c968-e36a-4802-b697-0290acd90cbf",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:58:09+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:57:54+00:00",
+      "updatedAt": "2026-09-04T19:58:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:58:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:58:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "company": "Preference Model",
+      "title": "Member of Technical Staff - Research & Post-training",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/Preference-Model/238b5035-59ed-4ee3-822b-31add2ba4587",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-04T19:58:09+00:00",
+      "submittedDay": "2026-09-04",
+      "addedAt": "2026-09-04T19:57:54+00:00",
+      "updatedAt": "2026-09-04T19:58:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-04T19:58:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-04T19:58:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "company": "Sieve",
+      "title": "Member of Technical Staff, Machine Learning",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/sieve/dbff6c5e-341c-4daf-9563-16dbeb4b1fad",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:09:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:09:40+00:00",
+      "updatedAt": "2026-09-05T06:09:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:09:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "company": "Tzafon",
+      "title": "Member of Technical Staff – Applied AI",
+      "location": "San Francisco; Tel Aviv; Zurich",
+      "url": "https://jobs.ashbyhq.com/tzafon/cd4a8db1-d779-44a1-9cc9-76190bc8db2c",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:09:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:09:40+00:00",
+      "updatedAt": "2026-09-05T06:09:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:09:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "company": "Reducto",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/reducto/aac35219-c38c-4490-8050-cee52e7dcf6b",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:09:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:09:40+00:00",
+      "updatedAt": "2026-09-05T06:09:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:09:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "company": "Orbit Neuro",
+      "title": "Founding Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/orbit/cb53c46f-9cec-411c-abcc-0ba2c555edee",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:09:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:09:40+00:00",
+      "updatedAt": "2026-09-05T06:09:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:09:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "company": "Eka",
+      "title": "Machine Learning / Reinforcement Learning Infrastructure Engineer",
+      "location": "Boston Area",
+      "url": "https://jobs.ashbyhq.com/ekarobotics/c7039cd4-4471-4eb8-8a1f-4dc05bbc7cbf",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:09:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:09:40+00:00",
+      "updatedAt": "2026-09-05T06:09:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:09:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "company": "Prime Intellect",
+      "title": "Applied Research - Forward-Deployed",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/primeintellect/73f42d73-f967-4082-b599-b8914135a6b3",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:09:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:09:40+00:00",
+      "updatedAt": "2026-09-05T06:09:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:09:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "company": "Onyx",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/onyx/8209d4b3-4206-4583-b379-605caece9ba6",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:09:40+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:09:40+00:00",
+      "updatedAt": "2026-09-05T06:09:40+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:09:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:09:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "company": "Kovari",
+      "title": "Founding Software Engineer, Robot Learning",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/kovari/07f8aff9-58f4-4f6c-ab26-e5a84cfb84ea",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:39:22+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:31:27+00:00",
+      "updatedAt": "2026-09-05T06:39:22+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:39:22+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:39:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "company": "Applied Compute",
+      "title": "Research Scientist",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/Applied%20Compute/3a351ec5-8f16-4add-b0e5-c0012bc5d6a8",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:35:41+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:31:27+00:00",
+      "updatedAt": "2026-09-05T06:35:41+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:35:41+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:35:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "company": "Rhoda AI",
+      "title": "Research Member of Technical Staff - Robot Learning Systems & Reliability",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/fd194154-c254-4c45-8a0d-742d9901f2ea",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:32:00+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:31:27+00:00",
+      "updatedAt": "2026-09-05T06:32:00+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:32:00+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "company": "Human Archive",
+      "title": "Research Engineer",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/humanarchive/f922a56c-4f79-4d69-8d5a-f9980c118692",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:34:24+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:31:27+00:00",
+      "updatedAt": "2026-09-05T06:34:24+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:34:24+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:34:24+00:00"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "company": "Dyna Robotics",
+      "title": "Research Engineer / Scientist",
+      "location": "Not specified",
+      "url": "https://jobs.ashbyhq.com/dyna-robotics/357b1b23-0712-489e-b336-1462f186cba7",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T06:33:27+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:31:27+00:00",
+      "updatedAt": "2026-09-05T06:33:27+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T06:33:27+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T06:33:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "company": "Bedrock Robotics",
+      "title": "Controls and Robot Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/97d8761f-3238-4f1d-8893-cdff3d1cc954",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T14:56:51+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:43:26+00:00",
+      "updatedAt": "2026-09-05T14:56:51+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T14:56:51+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T14:56:51+00:00"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "company": "Gritt Robotics",
+      "title": "Robot Learning Engineer",
+      "location": "South San Francisco",
+      "url": "https://jobs.ashbyhq.com/gritt/22718c8d-02d4-4507-9e67-fccddeb3fbb1",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T14:59:37+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:43:26+00:00",
+      "updatedAt": "2026-09-05T14:59:37+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T14:59:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T14:59:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "company": "Physical Intelligence",
+      "title": "ML Infra Engineer, Data Systems",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/1f6cf3eb-f70f-480b-9fff-befd56c7fd07",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T14:58:28+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:43:26+00:00",
+      "updatedAt": "2026-09-05T14:58:28+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T14:58:28+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T14:58:28+00:00"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "company": "XDOF",
+      "title": "Member of Technical Staff, Vision / Language",
+      "location": "San Mateo",
+      "url": "https://jobs.ashbyhq.com/xdof/1e7de4e3-094f-4267-876d-2ccb8b2246eb",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T14:59:02+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T06:43:26+00:00",
+      "updatedAt": "2026-09-05T14:59:02+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T14:59:02+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T14:59:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "company": "Luma",
+      "title": "Research Scientist / Engineer - Reinforcement Learning Infrastructure",
+      "location": "Redwood City, CA",
+      "url": "https://jobs.ashbyhq.com/lumaai/90734653-886d-4f6f-8af8-fb130d5400ab",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T15:26:16+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T15:08:16+00:00",
+      "updatedAt": "2026-09-05T15:26:16+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-05T15:08:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T15:26:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "company": "Genesis",
+      "title": "Robot Learning",
+      "location": "Bay Area",
+      "url": "https://jobs.ashbyhq.com/genesis/25cf2fe6-6d4f-4c57-a012-d2780afaaa98",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:17:56+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:13:16+00:00",
+      "updatedAt": "2026-09-05T23:17:56+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:17:56+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:17:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "company": "Physical Intelligence",
+      "title": "Applied Researcher",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/1a7a181f-c318-4e0b-9516-c7111b3e3968",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:21:42+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:21:10+00:00",
+      "updatedAt": "2026-09-05T23:21:42+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:21:42+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:21:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "company": "Rhoda AI",
+      "title": "Research Member of Technical Staff - Data & Evaluation",
+      "location": "Mountain View",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/56f6d647-0867-485b-ab0d-2f30c8aedffa",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:23:16+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:22:50+00:00",
+      "updatedAt": "2026-09-05T23:23:16+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:23:16+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:23:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "company": "Rhoda AI",
+      "title": "Research Member of Technical Staff- Applied Research",
+      "location": "Mountain View",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/985ceeb2-1fa7-44ab-b2d4-487c9516970b",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:24:15+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:23:47+00:00",
+      "updatedAt": "2026-09-05T23:24:15+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:24:15+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:24:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "company": "Luma",
+      "title": "Simulation Researcher/Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://jobs.ashbyhq.com/lumaai/df7a7dc2-3093-432b-88c3-3d39efc9a24f",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:26:42+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:25:50+00:00",
+      "updatedAt": "2026-09-05T23:26:42+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:26:42+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:26:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "company": "Luma",
+      "title": "Robotics Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://jobs.ashbyhq.com/lumaai/e58e1043-5dd1-4695-9f7b-8c59389f617f",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:26:52+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-05T23:27:14+00:00",
+      "updatedAt": "2026-09-08T06:26:52+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:28:07+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:28:07+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:26:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "company": "Harmonic",
+      "title": "Research Engineer",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/Harmonic/700d7dd6-db2b-4693-9e11-40fb755a54c4",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:23:06+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-05T23:29:03+00:00",
+      "updatedAt": "2026-09-07T02:23:06+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:29:31+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:29:31+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:23:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "company": "Console",
+      "title": "Research Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/console/e01b9c1e-4ae5-4468-a262-01d9ffbe58c8",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-05T23:30:11+00:00",
+      "updatedAt": "2026-09-05T23:31:01+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:31:01+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:31:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "company": "Percepta",
+      "title": "Research Engineer / Scientist – Reinforcement Learning (RL)",
+      "location": "New York City; Boston",
+      "url": "https://jobs.ashbyhq.com/percepta/e2dd1d63-dcc1-463e-8564-40a3106f6847",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:33:22+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:31:50+00:00",
+      "updatedAt": "2026-09-05T23:33:22+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:33:22+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:33:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "company": "Normal Computing Corporation",
+      "title": "AI Research Engineer",
+      "location": "New York City; Silicon Valley",
+      "url": "https://jobs.ashbyhq.com/NormalComputing/92deb02d-5a1c-4de1-98d3-5a81303aea8e",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:35:47+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:34:06+00:00",
+      "updatedAt": "2026-09-05T23:35:47+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:35:47+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:35:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "company": "Deft AI, Inc.",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/deft-ai/595b9a38-b6f0-4ec3-b6ab-a2606aba37a5",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:43:50+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:42:42+00:00",
+      "updatedAt": "2026-09-05T23:43:50+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:43:50+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:43:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "company": "HeyMilo",
+      "title": "Research Engineer, Applied AI",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/heymilo/40186654-a5ac-4353-b02a-292f20e03282",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:51:13+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:50:32+00:00",
+      "updatedAt": "2026-09-05T23:51:13+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:51:13+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:51:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "company": "OpenMind",
+      "title": "Research Scientist",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/openmind/04082299-4fb6-4fe3-92c0-4f1a043a95b3",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:06:41+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-05T23:52:42+00:00",
+      "updatedAt": "2026-09-08T05:06:41+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:53:23+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:53:23+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:06:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "company": "Goaly",
+      "title": "Member of Technical Staff, Research — Early Career(PHD)",
+      "location": "Menlo Park, CA",
+      "url": "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-05T23:54:22+00:00",
+      "updatedAt": "2026-09-08T05:57:59+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:54:46+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:54:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "company": "Ambral",
+      "title": "Member of Technical Staff (New Grad)",
+      "location": "New York; San Francisco",
+      "url": "https://jobs.ashbyhq.com/Ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:24:44+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-05T23:55:14+00:00",
+      "updatedAt": "2026-09-07T02:24:44+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:55:14+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-05T23:55:14+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:24:44+00:00"
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "company": "Backbone",
+      "title": "Founding Engineer, Applied Research",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/backbone/cbfce5dc-e2c7-452e-bb23-2dac1198df7d",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:56:33+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:55:53+00:00",
+      "updatedAt": "2026-09-05T23:56:33+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:56:33+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:56:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "company": "Percepta",
+      "title": "Embedded Research Scientist",
+      "location": "New York City; Boston",
+      "url": "https://jobs.ashbyhq.com/percepta/6f1b97bd-14c4-4bfd-85a1-bc501d37ddc1",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-05T23:58:16+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-05T23:57:42+00:00",
+      "updatedAt": "2026-09-05T23:58:16+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-05T23:58:16+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-05T23:58:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "company": "Pantograph",
+      "title": "Research Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/pantograph/dfe5cf92-33f3-4ab7-8dc8-f8aa75693ac7",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-06T00:00:53+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-06T00:00:11+00:00",
+      "updatedAt": "2026-09-06T00:00:53+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:00:53+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-06T00:00:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "company": "Skild AI",
+      "title": "Robotics Engineer, Manipulation",
+      "location": "San Mateo, CA",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4136372008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-06T00:03:23+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-06T00:01:36+00:00",
+      "updatedAt": "2026-09-06T00:03:23+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:03:23+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-06T00:03:23+00:00"
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "company": "XDOF",
+      "title": "Member of Technical Staff, Robotics",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/xdof/77c2c370-3dd7-4997-9d19-746b55b98ff5",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-06T00:06:55+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-06T00:06:12+00:00",
+      "updatedAt": "2026-09-06T00:06:55+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:06:55+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-06T00:06:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "company": "XDOF",
+      "title": "Humanoid Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://jobs.ashbyhq.com/xdof/313b9f27-74c1-4c71-844f-4dadecdc6082",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:00:52+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-06T00:07:31+00:00",
+      "updatedAt": "2026-09-08T06:00:52+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:08:14+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-06T00:08:14+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:00:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "company": "Institute of Foundation Models",
+      "title": "Research Scientist, Agentic Data & Benchmarking",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.lever.co/ifm-us/ab7fbd2c-f809-4f08-ab53-3e666c9792eb",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-06T00:10:14+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-06T00:09:05+00:00",
+      "updatedAt": "2026-09-06T00:10:14+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:10:14+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-06T00:10:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "company": "Institute of Foundation Models",
+      "title": "Research Scientist – World Modeling, Data",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.lever.co/ifm-us/de4b2f67-785f-4181-a43e-634ba4b32f21",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-06T00:11:26+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-06T00:10:47+00:00",
+      "updatedAt": "2026-09-06T00:11:26+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:11:26+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-06T00:11:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "company": "Hedra",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/hedra/b99b5901-84ff-4d39-a50f-77ef9767ddd3",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:20:14+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-06T00:12:50+00:00",
+      "updatedAt": "2026-09-08T06:20:14+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:13:32+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-06T00:13:32+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:20:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "company": "Spotify",
+      "title": "Research Scientist - Generative Audio",
+      "location": "New York, NY / US remote eligible",
+      "url": "https://jobs.lever.co/spotify/0eebb462-b5a2-4e3a-b830-d8ef7505b014",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-06T00:15:58+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-06T00:15:16+00:00",
+      "updatedAt": "2026-09-06T00:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:15:58+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-06T00:15:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "company": "Mirendil",
+      "title": "Member of Technical Staff, Post-Training, RL Environments",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/mirendil/9fd66ea3-817c-481a-b5c5-357dc993e18c",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-06T00:18:33+00:00",
+      "submittedDay": "2026-09-05",
+      "addedAt": "2026-09-06T00:17:45+00:00",
+      "updatedAt": "2026-09-06T00:18:33+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-06T00:18:33+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-06T00:18:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "company": "Trace",
+      "title": "Researcher",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/tracelabs/7c8ad43b-bb8c-4cc2-8004-25a66d575822",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-07T02:25:34+00:00",
+      "updatedAt": "2026-09-08T05:08:02+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:26:16+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-07T02:26:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "company": "Trener",
+      "title": "Robotics Software Engineer Vision-Language-Action Models",
+      "location": "San Jose, CA or Trondheim, Norway",
+      "url": "https://jobs.ashbyhq.com/trener-robotics/7bb455c7-5e69-49f3-9c7c-935821c5aef4",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-07T02:27:12+00:00",
+      "updatedAt": "2026-09-07T02:28:56+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:28:56+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-07T02:28:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "company": "HUD",
+      "title": "Research Engineer, Benchmarks",
+      "location": "San Francisco, CA or Singapore",
+      "url": "https://jobs.ashbyhq.com/hud/c5252f0e-fd1d-41cf-b803-b0ce1fe4cea1",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:35:11+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:33:42+00:00",
+      "updatedAt": "2026-09-07T02:35:11+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:35:11+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:35:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "company": "HUD",
+      "title": "Research Engineer, Synthetic Data",
+      "location": "San Francisco, CA or Singapore",
+      "url": "https://jobs.ashbyhq.com/hud/44e356fa-801c-4dac-99f5-848d80a68500",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:37:13+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:35:49+00:00",
+      "updatedAt": "2026-09-07T02:37:13+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:37:13+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:37:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "company": "Tau Robotics",
+      "title": "Research Engineer/Scientist, Reinforcement Learning",
+      "location": "San Francisco, CA",
+      "url": "https://www.tau-robotics.com/apply.html?role=reinforcement-learning",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:41:25+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:38:18+00:00",
+      "updatedAt": "2026-09-07T02:41:25+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:41:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "company": "Tau Robotics",
+      "title": "Research Engineer, Simulation & Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.tau-robotics.com/apply.html?role=simulation-evaluation",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:42:36+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:41:57+00:00",
+      "updatedAt": "2026-09-07T02:42:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:42:36+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:42:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "company": "Character.AI",
+      "title": "Research Engineer, Post-Training (All Industry Levels)",
+      "location": "Redwood City or New York City",
+      "url": "https://jobs.ashbyhq.com/character/449bf7c1-41d7-47a4-89a7-0ee0b31f5918",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:44:05+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:43:14+00:00",
+      "updatedAt": "2026-09-07T02:44:05+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:44:05+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:44:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "company": "Distyl AI",
+      "title": "Research Engineers, Post-Training",
+      "location": "San Francisco; New York",
+      "url": "https://jobs.ashbyhq.com/Distyl/96951117-efef-4f27-bbc4-671559d4af30",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:30:09+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-07T02:44:47+00:00",
+      "updatedAt": "2026-09-08T06:30:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:45:35+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-07T02:45:35+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:30:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "company": "LangChain",
+      "title": "Research Engineer, LangSmith Engine",
+      "location": "New York, NY; San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/langchain/bdc96ffd-2a95-4d63-bf8f-193574961e00",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:49:47+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:49:13+00:00",
+      "updatedAt": "2026-09-07T02:49:47+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:49:47+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:49:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "company": "Variance",
+      "title": "Research Engineer, Evals",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/intrinsic-safety/66dfd37e-6df5-4f89-8454-b3005bd6e1aa",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-07T02:50:42+00:00",
+      "updatedAt": "2026-09-08T06:15:44+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:51:21+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-07T02:51:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "company": "Eragon",
+      "title": "Member of Technical Staff",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Eragon/73dc15b6-28cc-4c1d-be9d-96c578736fe5",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:54:11+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:53:33+00:00",
+      "updatedAt": "2026-09-07T02:54:11+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:54:11+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:54:11+00:00"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "company": "SID AI",
+      "title": "Research Engineer",
+      "location": "San Francisco",
+      "url": "https://www.sid.ai/careers/research-engineer",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:55:52+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:55:01+00:00",
+      "updatedAt": "2026-09-07T02:55:52+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:55:52+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:55:52+00:00"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "company": "Diffuse Labs",
+      "title": "Research Engineer, RL Environments",
+      "location": "San Francisco",
+      "url": "https://diffuselabs.ai/careers",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:57:15+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:56:42+00:00",
+      "updatedAt": "2026-09-07T02:57:15+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:57:15+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:57:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "company": "Magic",
+      "title": "Member of Technical Staff, RL Research & Environments",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/magic.dev/b8d6a107-3f98-4341-b114-311c7070e59f",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T02:59:31+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T02:58:44+00:00",
+      "updatedAt": "2026-09-07T02:59:31+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T02:59:31+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T02:59:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "company": "Tessera Labs",
+      "title": "Research Engineer",
+      "location": "San Jose; New York City",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/bd40274a-9f0f-489a-a92f-653007550eb3",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T03:02:45+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T03:02:05+00:00",
+      "updatedAt": "2026-09-07T03:02:45+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:02:45+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T03:02:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "company": "Decagon",
+      "title": "Research Engineer, Safety",
+      "location": "San Francisco; New York City",
+      "url": "https://jobs.ashbyhq.com/decagon/f84db19b-8de3-49d6-a954-c9ee2e365956",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T03:04:12+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T03:03:30+00:00",
+      "updatedAt": "2026-09-07T03:04:12+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:04:12+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T03:04:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "company": "OpenRouter",
+      "title": "Research Scientist",
+      "location": "Remote US",
+      "url": "https://jobs.ashbyhq.com/openrouter/8daf0f29-2e78-4ab1-8230-52e3988fe42c",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T03:07:19+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T03:06:33+00:00",
+      "updatedAt": "2026-09-07T03:07:19+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:07:19+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T03:07:19+00:00"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "company": "Mercor",
+      "title": "Research Engineer - Environments, Data and Post-Training",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/mercor/97b8c17e-e438-4b61-bab1-9ae18e2c3f34",
+      "category": "RL & Language Models",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-07T03:08:10+00:00",
+      "updatedAt": "2026-09-07T03:09:05+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:09:05+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-07T03:09:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "company": "General Robotics",
+      "title": "Robotics Engineer - Navigation focus",
+      "location": "Redmond, WA",
+      "url": "https://jobs.ashbyhq.com/generalrobotics/f20e520c-e259-4f4d-9d38-142b57495d3f",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T03:14:06+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T03:13:35+00:00",
+      "updatedAt": "2026-09-07T03:14:06+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:14:06+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T03:14:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "company": "General Robotics",
+      "title": "Robotics Engineer",
+      "location": "Redmond, WA",
+      "url": "https://jobs.ashbyhq.com/generalrobotics/78abd116-9842-4c40-9649-a73e1573f2e8",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T03:15:03+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T03:14:31+00:00",
+      "updatedAt": "2026-09-07T03:15:03+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:15:03+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T03:15:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "company": "Rox Data Corp",
+      "title": "Founding Applied Research Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Rox-Data-Corp/d2078263-f2b1-4efa-a6b1-d9435b231b00",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T03:15:50+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T03:15:25+00:00",
+      "updatedAt": "2026-09-07T03:15:50+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:15:50+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T03:15:50+00:00"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "company": "Primary",
+      "title": "Research Engineer – AI",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/theprimary/f4649b17-4a4c-4822-81ac-2f39b83aaa4a",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-07T03:17:03+00:00",
+      "updatedAt": "2026-09-08T05:12:29+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:17:31+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-07T03:17:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "company": "Tessera Labs",
+      "title": "Research Scientist",
+      "location": "San Jose, CA",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/311051b8-2af1-4f80-ad5b-be2b854305d7",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:28:10+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-07T03:19:53+00:00",
+      "updatedAt": "2026-09-08T06:28:10+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:20:27+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-07T03:20:27+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:28:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "company": "Physical Superintelligence",
+      "title": "Member of Technical Staff, AI Research",
+      "location": "Boston, MA",
+      "url": "https://jobs.ashbyhq.com/psi/0ea93698-11ba-4bbf-8eed-aefbe881cb07",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-07T03:22:05+00:00",
+      "submittedDay": "2026-09-06",
+      "addedAt": "2026-09-07T03:21:14+00:00",
+      "updatedAt": "2026-09-07T03:22:05+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-07T03:22:05+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-07T03:22:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "company": "Origami Robotics",
+      "title": "Robotics Systems & Learning Engineer: Manipulation",
+      "location": "San Francisco, CA",
+      "url": "https://www.origami-robotics.com/careers",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:09:45+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:08:56+00:00",
+      "updatedAt": "2026-09-08T05:09:45+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:09:45+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:09:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "company": "Weave Robotics",
+      "title": "ML Research Scientist, Robot Learning",
+      "location": "San Francisco, CA",
+      "url": "https://app.dover.com/apply/weaverobotics/df3789c6-c24d-4493-ba20-a3695b34a785",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-08T05:10:56+00:00",
+      "updatedAt": "2026-09-08T06:30:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T06:30:09+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-08T06:30:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "company": "Eka",
+      "title": "Research Engineer – Simulation",
+      "location": "Boston Area",
+      "url": "https://jobs.ashbyhq.com/ekarobotics/ba779e63-09a4-4d71-8373-192734add757",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:14:53+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:13:17+00:00",
+      "updatedAt": "2026-09-08T05:14:53+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:14:53+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:14:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "company": "Runway",
+      "title": "Member of Technical Staff, Robotics Engineer",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/runway-ml/0f1c42db-8bbf-4e69-a17c-b6f45244605d",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:21:36+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:20:17+00:00",
+      "updatedAt": "2026-09-08T05:21:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:21:36+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:21:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "company": "Menlo",
+      "title": "Researcher, Locomotion",
+      "location": "Palo Alto; Singapore",
+      "url": "https://jobs.ashbyhq.com/menlo/2877345e-b279-4a5b-9892-e43eaac37935",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-08T05:22:22+00:00",
+      "updatedAt": "2026-09-08T05:22:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:22:36+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-08T05:22:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "company": "RoboForce",
+      "title": "Robotics Software Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://job-boards.greenhouse.io/roboforce/jobs/5181554008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:25:09+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:23:54+00:00",
+      "updatedAt": "2026-09-08T05:25:09+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:25:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:25:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "company": "Vmax AI",
+      "title": "Research Fellowship - Mechanistic Interpretability",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/vmax/7344d5fd-6fa3-4bce-b7bd-e73aa4dd568b",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:28:46+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:27:53+00:00",
+      "updatedAt": "2026-09-08T05:28:46+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:28:46+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:28:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "company": "Vmax AI",
+      "title": "Member of Technical Staff - Open Endedness",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/vmax/d6d5a456-944d-4090-a7f4-4adbc23bef27",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-08T05:29:36+00:00",
+      "updatedAt": "2026-09-08T05:31:10+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:31:10+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-08T05:31:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "company": "Harvey",
+      "title": "Research Engineer, Post-Training",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/harvey/d78083d9-a203-4ae4-b4b9-454d65df3702",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:34:33+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:32:17+00:00",
+      "updatedAt": "2026-09-08T05:34:33+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:34:33+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:34:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "company": "Applied Intuition",
+      "title": "Research Engineer - New Grad (2027)",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-08T05:37:14+00:00",
+      "updatedAt": "2026-09-08T06:30:10+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:38:47+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-08T05:38:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "company": "Mirage",
+      "title": "Research Engineer, Agentic Systems",
+      "location": "New York, NY",
+      "url": "https://jobs.ashbyhq.com/mirage/99300b3e-e2c3-4044-b59c-5338b1cd2671",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-08T05:39:42+00:00",
+      "updatedAt": "2026-09-08T05:40:32+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:40:32+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-08T05:40:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "company": "Parallax Worlds",
+      "title": "Founding Robotics Researcher",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/Pear-VC/53c0a6ed-212e-4731-a890-6c2834751d9c",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:42:08+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:41:12+00:00",
+      "updatedAt": "2026-09-08T05:42:08+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:42:08+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:42:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "company": "AGI, Inc.",
+      "title": "Research Engineer - Evals",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/agi-inc/d9465f93-b206-4d76-b736-02b3c639edde",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:45:15+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:44:22+00:00",
+      "updatedAt": "2026-09-08T05:45:15+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:45:15+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:45:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "company": "Nous Research",
+      "title": "Machine Learning Engineer, Evals",
+      "location": "Remote, US time zones",
+      "url": "https://jobs.ashbyhq.com/nousresearch/1e647dc1-e69c-4764-8a02-7244b8faee0b",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:46:53+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:46:10+00:00",
+      "updatedAt": "2026-09-08T05:46:53+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:46:53+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:46:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "company": "Artificial Analysis",
+      "title": "Member of Technical Staff (Language Model Evaluations)",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/artificialanalysis/2b4df1cc-2a51-4516-8b7f-2994ef3e5616",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:48:41+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:47:35+00:00",
+      "updatedAt": "2026-09-08T05:48:41+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:48:41+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:48:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "company": "Build AI",
+      "title": "Member of Technical Staff, Evals Lead",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/build-ai/4248d4d3-9957-4c4e-a170-6584af71a83c",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T05:53:46+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T05:52:58+00:00",
+      "updatedAt": "2026-09-08T05:53:46+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T05:53:46+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T05:53:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "company": "Nirvana Robotics",
+      "title": "Member of Technical Staff, Simulation & Robot Learning Engineer",
+      "location": "New York City",
+      "url": "https://www.nrvna.ai/careers",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-08T06:01:26+00:00",
+      "updatedAt": "2026-09-08T06:03:08+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T06:03:08+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-08T06:03:08+00:00"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "company": "SuperAnnotate",
+      "title": "Research Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.lever.co/superannotate/26b7799a-b68a-47d2-bde1-891fbd7e2e68",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:05:01+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T06:03:55+00:00",
+      "updatedAt": "2026-09-08T06:05:01+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T06:05:01+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:05:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "company": "Surge AI",
+      "title": "Research Scientist",
+      "location": "United States - Remote",
+      "url": "https://jobs.ashbyhq.com/surge-ai/55673c49-9b7b-4080-b925-1e4b8a5011a3",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:07:00+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T06:05:32+00:00",
+      "updatedAt": "2026-09-08T06:07:00+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T06:07:00+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:07:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "company": "LlamaIndex",
+      "title": "Member of Technical Staff, Applied Research",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/llamaindex/5ef32675-090d-4eb2-bca0-ddb6fbde0215",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-08T06:10:21+00:00",
+      "submittedDay": "2026-09-08",
+      "addedAt": "2026-09-08T06:09:01+00:00",
+      "updatedAt": "2026-09-08T06:10:21+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T06:10:21+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-08T06:10:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "company": "Simile",
+      "title": "Evaluations - Member of Technical Staff",
+      "location": "San Francisco; New York",
+      "url": "https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-08T06:10:48+00:00",
+      "updatedAt": "2026-09-08T06:12:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-08T06:12:36+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-08T06:12:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "company": "FieldAI",
+      "title": "Robotics Autonomy Engineer - Locomotion",
+      "location": "Irvine, CA",
+      "url": "https://jobs.lever.co/field-ai/00be5e27-c434-4cde-b367-f1688aa7bd2b",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-09T15:17:05+00:00",
+      "updatedAt": "2026-09-09T15:17:05+00:00",
+      "history": []
+    },
+    {
+      "id": 206,
+      "company": "AfterQuery",
+      "title": "Research Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/afterquery/ae665a77-b88d-418e-941a-6c3da870f052",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:19:37+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:17:38+00:00",
+      "updatedAt": "2026-09-09T15:19:37+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:19:37+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:19:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "company": "Kinetic Systems",
+      "title": "Member of Technical Staff - Research Scientist",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/kineticsystems/e1f809df-f242-4404-a4e3-8f3b0154eb72",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:23:47+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:20:43+00:00",
+      "updatedAt": "2026-09-09T15:23:47+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:23:47+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:23:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "company": "Pluralis Research",
+      "title": "Research Engineer - Post-Training",
+      "location": "USA or Australia",
+      "url": "https://jobs.ashbyhq.com/pluralis-research/37a272e7-f55c-42e6-8db8-5c94f9934d86",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:26:00+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:24:51+00:00",
+      "updatedAt": "2026-09-09T15:26:00+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:26:00+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:26:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "company": "Mind Robotics",
+      "title": "Simulation and Validation Software Engineer",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/mindrobotics/7d009e77-9b6d-417c-a0a2-fde94587e1f1",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:28:06+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:26:58+00:00",
+      "updatedAt": "2026-09-09T15:28:06+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:28:06+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:28:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "company": "RB Labs",
+      "title": "Reinforcement Learning Specialist",
+      "location": "Palo Alto, USA",
+      "url": "https://www.rblabs.ai/career",
+      "category": "RL & Language Models",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-09T15:28:54+00:00",
+      "updatedAt": "2026-09-09T15:32:13+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:32:13+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-09T15:32:13+00:00"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "company": "Gamma",
+      "title": "Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/gamma/8932c415-e921-4d2f-80ea-e3b6dea6be96",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:34:34+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:33:20+00:00",
+      "updatedAt": "2026-09-09T15:34:34+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:34:34+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:34:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "company": "Mind Robotics",
+      "title": "Robotics Software Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://jobs.ashbyhq.com/mindrobotics/d25b0136-b05a-4c2b-91ea-5aa9fb6fc095",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:36:42+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:35:28+00:00",
+      "updatedAt": "2026-09-09T15:36:42+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:36:42+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:36:42+00:00"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "company": "EliseAI",
+      "title": "Junior Research Scientist",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/eliseai/54f71abf-9184-4b4a-8d41-43ebf1600eba",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:40:18+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:37:19+00:00",
+      "updatedAt": "2026-09-09T15:40:18+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:40:18+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:40:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "company": "Elicit",
+      "title": "Machine Learning Engineer",
+      "location": "Oakland or remote US timezones",
+      "url": "https://jobs.ashbyhq.com/elicit/913a03d5-bd26-4c64-8346-21a029f344f7",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:42:16+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:41:05+00:00",
+      "updatedAt": "2026-09-09T15:42:16+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:42:16+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:42:16+00:00"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "company": "Letta",
+      "title": "Research Engineer / Scientist, Post-Training",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/letta/57165f1b-e99e-4f9e-bda2-8f220ba68af7",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:43:48+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:43:00+00:00",
+      "updatedAt": "2026-09-09T15:43:48+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:43:48+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:43:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "company": "Vizcom",
+      "title": "Research Engineer, Post-Training",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/vizcom/af6d48ad-3133-4fc5-9a6a-4d6c9bce14b1",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:45:22+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:44:27+00:00",
+      "updatedAt": "2026-09-09T15:45:22+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:45:22+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:45:22+00:00"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "company": "Zyphra",
+      "title": "Research Engineer - Agency and Reasoning",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/zyphra/470057a3-171e-49e6-b236-25941e356bf1",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:48:07+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:46:29+00:00",
+      "updatedAt": "2026-09-09T15:48:07+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:48:07+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:48:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "company": "Layer Health",
+      "title": "ML Scientist",
+      "location": "Boston or NYC",
+      "url": "https://job-boards.greenhouse.io/layerhealth/jobs/4408712008",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:50:00+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:49:01+00:00",
+      "updatedAt": "2026-09-09T15:50:00+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:50:00+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "company": "Cartesia",
+      "title": "Researcher, Evals",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/cartesia/53fb0b93-d49d-47c7-a679-35ee76b007c5",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:53:43+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:52:43+00:00",
+      "updatedAt": "2026-09-09T15:53:43+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:53:43+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:53:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "company": "Cartesia",
+      "title": "Researcher, Post Training",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/cartesia/33a8d2ef-ccc1-446a-8fd3-9c21cd211900",
+      "category": "RL & Language Models",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:56:00+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:54:25+00:00",
+      "updatedAt": "2026-09-09T15:56:00+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:56:00+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:56:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "company": "Tau Robotics",
+      "title": "Software Engineer, Robot Data Infrastructure",
+      "location": "San Francisco",
+      "url": "https://www.tau-robotics.com/apply.html?role=robot-data-infrastructure",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:57:41+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:56:58+00:00",
+      "updatedAt": "2026-09-09T15:57:41+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:57:41+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:57:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "company": "Tau Robotics",
+      "title": "Research Engineer/Scientist, Imitation Learning & Pretraining",
+      "location": "San Francisco",
+      "url": "https://www.tau-robotics.com/apply.html?role=imitation-learning",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T15:59:05+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T15:58:12+00:00",
+      "updatedAt": "2026-09-09T15:59:05+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T15:59:05+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T15:59:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "company": "Formulate Labs",
+      "title": "AI/ML Engineer",
+      "location": "Mountain View, CA",
+      "url": "https://www.formulatelabs.ai/careers/p/ai-ml-engineer",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T16:02:21+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T16:01:23+00:00",
+      "updatedAt": "2026-09-09T16:02:21+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T16:02:21+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T16:02:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "company": "Higharc",
+      "title": "Research Engineer",
+      "location": "Remote (United States)",
+      "url": "https://jobs.ashbyhq.com/higharc/39a7afd6-0124-49dc-826e-d2248c284cbb",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T16:06:47+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T16:06:11+00:00",
+      "updatedAt": "2026-09-09T16:06:47+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T16:06:47+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T16:06:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "company": "Traversal",
+      "title": "AI Researcher",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/traversal/f6e9d489-d0ec-4d7d-adf3-5ba940f53312",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T16:08:57+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T16:07:48+00:00",
+      "updatedAt": "2026-09-09T16:08:57+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T16:08:57+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T16:08:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "company": "DepthFirst",
+      "title": "Research Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/depthfirst/c73ec5e2-1c98-4b21-a9de-f05bf53d0948",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-09T16:10:04+00:00",
+      "submittedDay": "2026-09-09",
+      "addedAt": "2026-09-09T16:09:27+00:00",
+      "updatedAt": "2026-09-09T16:10:04+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-09T16:10:04+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-09T16:10:04+00:00"
+        }
+      ]
+    }
+  ]
+}
