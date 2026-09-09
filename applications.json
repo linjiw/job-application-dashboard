@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T16:25:35.087836+00:00",
+  "updatedAt": "2026-09-09T16:36:35.713935+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -322,11 +322,11 @@
       "location": "Houston, TX",
       "url": "https://jobs.ashbyhq.com/persona.ai/2e1ad9ed-cc2e-436d-93eb-76a5bff239c8",
       "category": "RL & Language Models",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-05T15:27:05+00:00",
       "submittedDay": "2026-09-05",
       "addedAt": "2026-07-27T07:20:29+00:00",
-      "updatedAt": "2026-09-05T15:27:05+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "draft",
@@ -343,6 +343,10 @@
         {
           "status": "submitted",
           "at": "2026-09-05T15:27:05+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-09T16:35:25+00:00"
         }
       ]
     },
@@ -1068,11 +1072,11 @@
       "location": "South San Francisco",
       "url": "https://jobs.ashbyhq.com/gritt/5c4737ce-f546-453b-b30d-791a121fb9fd",
       "category": "Robotics & Physical AI",
-      "status": "submitted",
+      "status": "interview",
       "submittedAt": "2026-09-01T04:55:09+00:00",
       "submittedDay": "2026-09-01",
       "addedAt": "2026-09-01T03:10:59+00:00",
-      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -1089,6 +1093,10 @@
         {
           "status": "submitted",
           "at": "2026-09-01T04:55:09+00:00"
+        },
+        {
+          "status": "interview",
+          "at": "2026-09-09T16:35:44+00:00"
         }
       ]
     },
@@ -1260,11 +1268,11 @@
       "location": "Columbus, Ohio",
       "url": "https://boards.greenhouse.io/pathrobotics/jobs/8501710002?gh_jid=8501710002",
       "category": "Robotics & Physical AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-01T05:07:08+00:00",
       "submittedDay": "2026-09-01",
       "addedAt": "2026-09-01T03:10:59+00:00",
-      "updatedAt": "2026-09-01T05:07:08+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -1281,6 +1289,10 @@
         {
           "status": "submitted",
           "at": "2026-09-01T05:07:08+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-09T16:35:44+00:00"
         }
       ]
     },
@@ -1565,11 +1577,11 @@
       "location": "San Jose, CA",
       "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b",
       "category": "Software & Infrastructure",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-01T04:55:09+00:00",
       "submittedDay": "2026-09-01",
       "addedAt": "2026-09-01T03:25:20+00:00",
-      "updatedAt": "2026-09-01T04:55:09+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -1586,6 +1598,10 @@
         {
           "status": "submitted",
           "at": "2026-09-01T04:55:09+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-09T16:35:44+00:00"
         }
       ]
     },
@@ -2705,11 +2721,11 @@
       "location": "Not specified",
       "url": "https://jobs.ashbyhq.com/kovari/07f8aff9-58f4-4f6c-ab26-e5a84cfb84ea",
       "category": "Robotics & Physical AI",
-      "status": "submitted",
+      "status": "interview",
       "submittedAt": "2026-09-05T06:39:22+00:00",
       "submittedDay": "2026-09-05",
       "addedAt": "2026-09-05T06:31:27+00:00",
-      "updatedAt": "2026-09-05T06:39:22+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "draft",
@@ -2718,6 +2734,10 @@
         {
           "status": "submitted",
           "at": "2026-09-05T06:39:22+00:00"
+        },
+        {
+          "status": "interview",
+          "at": "2026-09-09T16:35:44+00:00"
         }
       ]
     },
@@ -3607,11 +3627,11 @@
       "location": "San Francisco, CA or Singapore",
       "url": "https://jobs.ashbyhq.com/hud/c5252f0e-fd1d-41cf-b803-b0ce1fe4cea1",
       "category": "Research & Applied AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-07T02:35:11+00:00",
       "submittedDay": "2026-09-06",
       "addedAt": "2026-09-07T02:33:42+00:00",
-      "updatedAt": "2026-09-07T02:35:11+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "draft",
@@ -3620,6 +3640,10 @@
         {
           "status": "submitted",
           "at": "2026-09-07T02:35:11+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-09T16:35:25+00:00"
         }
       ]
     },
@@ -3795,11 +3819,11 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/Eragon/73dc15b6-28cc-4c1d-be9d-96c578736fe5",
       "category": "Software & Infrastructure",
-      "status": "submitted",
+      "status": "needs_input",
       "submittedAt": "2026-09-07T02:54:11+00:00",
       "submittedDay": "2026-09-06",
       "addedAt": "2026-09-07T02:53:33+00:00",
-      "updatedAt": "2026-09-07T02:54:11+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "draft",
@@ -3808,6 +3832,10 @@
         {
           "status": "submitted",
           "at": "2026-09-07T02:54:11+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-09T16:35:44+00:00"
         }
       ]
     },
@@ -3864,11 +3892,11 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/magic.dev/b8d6a107-3f98-4341-b114-311c7070e59f",
       "category": "Research & Applied AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-07T02:59:31+00:00",
       "submittedDay": "2026-09-06",
       "addedAt": "2026-09-07T02:58:44+00:00",
-      "updatedAt": "2026-09-07T02:59:31+00:00",
+      "updatedAt": "2026-09-09T16:35:43+00:00",
       "history": [
         {
           "status": "draft",
@@ -3877,6 +3905,10 @@
         {
           "status": "submitted",
           "at": "2026-09-07T02:59:31+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-09T16:35:25+00:00"
         }
       ]
     },
@@ -3933,11 +3965,11 @@
       "location": "Remote US",
       "url": "https://jobs.ashbyhq.com/openrouter/8daf0f29-2e78-4ab1-8230-52e3988fe42c",
       "category": "Research & Applied AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-07T03:07:19+00:00",
       "submittedDay": "2026-09-06",
       "addedAt": "2026-09-07T03:06:33+00:00",
-      "updatedAt": "2026-09-07T03:07:19+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "draft",
@@ -3946,6 +3978,10 @@
         {
           "status": "submitted",
           "at": "2026-09-07T03:07:19+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-09T16:35:25+00:00"
         }
       ]
     },
@@ -4512,11 +4548,11 @@
       "location": "San Francisco",
       "url": "https://jobs.lever.co/superannotate/26b7799a-b68a-47d2-bde1-891fbd7e2e68",
       "category": "Research & Applied AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-08T06:05:01+00:00",
       "submittedDay": "2026-09-08",
       "addedAt": "2026-09-08T06:03:55+00:00",
-      "updatedAt": "2026-09-08T06:05:01+00:00",
+      "updatedAt": "2026-09-09T16:35:44+00:00",
       "history": [
         {
           "status": "draft",
@@ -4525,6 +4561,10 @@
         {
           "status": "submitted",
           "at": "2026-09-08T06:05:01+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-09T16:35:25+00:00"
         }
       ]
     },
