@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09T18:24:35.782245+00:00",
+  "updatedAt": "2026-09-14T20:37:16.128149+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -47,11 +47,11 @@
       "location": "San Jose, CA",
       "url": "https://job-boards.greenhouse.io/figureai/jobs/4671442006",
       "category": "Robotics & Physical AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-03T04:47:09+00:00",
       "submittedDay": "2026-09-03",
       "addedAt": "2026-07-27T06:38:55+00:00",
-      "updatedAt": "2026-09-03T04:47:09+00:00",
+      "updatedAt": "2026-09-14T20:36:26+00:00",
       "history": [
         {
           "status": "draft",
@@ -60,12 +60,30 @@
         {
           "status": "submitted",
           "at": "2026-09-03T04:47:09+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-14T20:36:26+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:36:26+00:00",
+          "progress": {
+            "stage": "rejected",
+            "nextAction": "review_feedback",
+            "feedback": "closer_match",
+            "rejectionStage": "before_interview",
+            "decisionAt": "2026-09-09T14:57:00-04:00"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "rejected",
+        "nextAction": "review_feedback",
+        "feedback": "closer_match",
+        "rejectionStage": "before_interview",
+        "decisionAt": "2026-09-09T14:57:00-04:00"
       }
     },
     {
@@ -226,11 +244,11 @@
       "location": "Columbus, OH",
       "url": "https://job-boards.greenhouse.io/pathrobotics/jobs/8116143002",
       "category": "Robotics & Physical AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-04T18:53:28+00:00",
       "submittedDay": "2026-09-04",
       "addedAt": "2026-07-27T07:20:29+00:00",
-      "updatedAt": "2026-09-04T18:53:28+00:00",
+      "updatedAt": "2026-09-14T20:35:48+00:00",
       "history": [
         {
           "status": "draft",
@@ -239,12 +257,30 @@
         {
           "status": "submitted",
           "at": "2026-09-04T18:53:28+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-14T20:35:48+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:35:48+00:00",
+          "progress": {
+            "stage": "rejected",
+            "nextAction": "review_feedback",
+            "feedback": "other_candidate",
+            "rejectionStage": "before_interview",
+            "decisionAt": "2026-09-11T12:30:00-04:00"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "rejected",
+        "nextAction": "review_feedback",
+        "feedback": "other_candidate",
+        "rejectionStage": "before_interview",
+        "decisionAt": "2026-09-11T12:30:00-04:00"
       }
     },
     {
@@ -2123,11 +2159,11 @@
       "location": "Palo Alto, CA",
       "url": "https://jobs.ashbyhq.com/metamorphic/549c8d6c-9477-4daa-8cf8-0b3d7f339d96",
       "category": "Robotics & Physical AI",
-      "status": "submitted",
+      "status": "needs_input",
       "submittedAt": "2026-09-03T04:29:35+00:00",
       "submittedDay": "2026-09-03",
       "addedAt": "2026-09-01T03:25:20+00:00",
-      "updatedAt": "2026-09-03T04:29:35+00:00",
+      "updatedAt": "2026-09-14T20:36:26+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -2148,11 +2184,23 @@
         {
           "status": "submitted",
           "at": "2026-09-03T04:29:35+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-14T20:36:26+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:36:26+00:00",
+          "progress": {
+            "stage": "screening",
+            "nextAction": "wait"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
+        "stage": "screening",
         "nextAction": "wait"
       }
     },
@@ -2299,11 +2347,11 @@
       "location": "Mountain View, CA; San Francisco, CA; New York, NY",
       "url": "https://careers.withwaymo.com/jobs/research-scientist-prediction-planning-mountain-view-california-united-states-new-york-city-new-york-san-francisco",
       "category": "Research & Applied AI",
-      "status": "submitted",
+      "status": "interview",
       "submittedAt": "2026-09-05T15:42:53+00:00",
       "submittedDay": "2026-09-05",
       "addedAt": "2026-09-01T03:25:20+00:00",
-      "updatedAt": "2026-09-05T15:42:53+00:00",
+      "updatedAt": "2026-09-14T20:35:03+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -2320,12 +2368,30 @@
         {
           "status": "submitted",
           "at": "2026-09-05T15:42:53+00:00"
+        },
+        {
+          "status": "interview",
+          "at": "2026-09-14T20:35:03+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:35:03+00:00",
+          "progress": {
+            "stage": "interview",
+            "roundType": "recruiter",
+            "roundState": "scheduled",
+            "nextAction": "prepare_interview",
+            "nextAt": "2026-09-25T16:00:00-04:00"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "interview",
+        "roundType": "recruiter",
+        "roundState": "scheduled",
+        "nextAction": "prepare_interview",
+        "nextAt": "2026-09-25T16:00:00-04:00"
       }
     },
     {
@@ -4160,11 +4226,11 @@
       "location": "New York City; Boston",
       "url": "https://jobs.ashbyhq.com/percepta/6f1b97bd-14c4-4bfd-85a1-bc501d37ddc1",
       "category": "Research & Applied AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-05T23:58:16+00:00",
       "submittedDay": "2026-09-05",
       "addedAt": "2026-09-05T23:57:42+00:00",
-      "updatedAt": "2026-09-05T23:58:16+00:00",
+      "updatedAt": "2026-09-14T20:35:03+00:00",
       "history": [
         {
           "status": "draft",
@@ -4173,12 +4239,30 @@
         {
           "status": "submitted",
           "at": "2026-09-05T23:58:16+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-14T20:35:03+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:35:03+00:00",
+          "progress": {
+            "stage": "rejected",
+            "nextAction": "review_feedback",
+            "feedback": "general_fit",
+            "rejectionStage": "before_interview",
+            "decisionAt": "2026-09-14T09:19:00-04:00"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "rejected",
+        "nextAction": "review_feedback",
+        "feedback": "general_fit",
+        "rejectionStage": "before_interview",
+        "decisionAt": "2026-09-14T09:19:00-04:00"
       }
     },
     {
@@ -4244,11 +4328,11 @@
       "location": "San Mateo, CA",
       "url": "https://jobs.ashbyhq.com/xdof/77c2c370-3dd7-4997-9d19-746b55b98ff5",
       "category": "Robotics & Physical AI",
-      "status": "submitted",
+      "status": "needs_input",
       "submittedAt": "2026-09-06T00:06:55+00:00",
       "submittedDay": "2026-09-05",
       "addedAt": "2026-09-06T00:06:12+00:00",
-      "updatedAt": "2026-09-06T00:06:55+00:00",
+      "updatedAt": "2026-09-14T20:36:26+00:00",
       "history": [
         {
           "status": "draft",
@@ -4257,12 +4341,24 @@
         {
           "status": "submitted",
           "at": "2026-09-06T00:06:55+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-14T20:36:26+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:36:26+00:00",
+          "progress": {
+            "stage": "screening",
+            "nextAction": "book_interview"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "screening",
+        "nextAction": "book_interview"
       }
     },
     {
@@ -4662,11 +4758,11 @@
       "location": "San Francisco; New York",
       "url": "https://jobs.ashbyhq.com/Distyl/96951117-efef-4f27-bbc4-671559d4af30",
       "category": "RL & Language Models",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-08T06:30:09+00:00",
       "submittedDay": "2026-09-08",
       "addedAt": "2026-09-07T02:44:47+00:00",
-      "updatedAt": "2026-09-08T06:30:09+00:00",
+      "updatedAt": "2026-09-14T20:35:48+00:00",
       "history": [
         {
           "status": "draft",
@@ -4679,12 +4775,30 @@
         {
           "status": "submitted",
           "at": "2026-09-08T06:30:09+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-14T20:35:48+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:35:48+00:00",
+          "progress": {
+            "stage": "rejected",
+            "nextAction": "review_feedback",
+            "feedback": "closer_match",
+            "rejectionStage": "before_interview",
+            "decisionAt": "2026-09-10T12:09:00-04:00"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "rejected",
+        "nextAction": "review_feedback",
+        "feedback": "closer_match",
+        "rejectionStage": "before_interview",
+        "decisionAt": "2026-09-10T12:09:00-04:00"
       }
     },
     {
@@ -6099,11 +6213,11 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/vizcom/af6d48ad-3133-4fc5-9a6a-4d6c9bce14b1",
       "category": "RL & Language Models",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-09T15:45:22+00:00",
       "submittedDay": "2026-09-09",
       "addedAt": "2026-09-09T15:44:27+00:00",
-      "updatedAt": "2026-09-09T15:45:22+00:00",
+      "updatedAt": "2026-09-14T20:35:48+00:00",
       "history": [
         {
           "status": "draft",
@@ -6112,12 +6226,30 @@
         {
           "status": "submitted",
           "at": "2026-09-09T15:45:22+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-14T20:35:48+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:35:48+00:00",
+          "progress": {
+            "stage": "rejected",
+            "nextAction": "review_feedback",
+            "feedback": "general_fit",
+            "rejectionStage": "before_interview",
+            "decisionAt": "2026-09-11T16:25:00-04:00"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "rejected",
+        "nextAction": "review_feedback",
+        "feedback": "general_fit",
+        "rejectionStage": "before_interview",
+        "decisionAt": "2026-09-11T16:25:00-04:00"
       }
     },
     {
@@ -6183,11 +6315,11 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/cartesia/53fb0b93-d49d-47c7-a679-35ee76b007c5",
       "category": "Research & Applied AI",
-      "status": "submitted",
+      "status": "rejected",
       "submittedAt": "2026-09-09T15:53:43+00:00",
       "submittedDay": "2026-09-09",
       "addedAt": "2026-09-09T15:52:43+00:00",
-      "updatedAt": "2026-09-09T15:53:43+00:00",
+      "updatedAt": "2026-09-14T20:35:48+00:00",
       "history": [
         {
           "status": "draft",
@@ -6196,12 +6328,40 @@
         {
           "status": "submitted",
           "at": "2026-09-09T15:53:43+00:00"
+        },
+        {
+          "status": "rejected",
+          "at": "2026-09-14T20:35:03+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-09-14T20:35:03+00:00",
+          "progress": {
+            "stage": "rejected",
+            "nextAction": "review_feedback",
+            "feedback": "other_candidate",
+            "rejectionStage": "before_interview",
+            "decisionAt": "2026-09-11T12:00:00-04:00"
+          }
+        },
+        {
+          "at": "2026-09-14T20:35:48+00:00",
+          "progress": {
+            "stage": "rejected",
+            "nextAction": "review_feedback",
+            "feedback": "other_candidate",
+            "rejectionStage": "before_interview",
+            "decisionAt": "2026-09-11T16:45:00-04:00"
+          }
+        }
+      ],
       "progress": {
-        "stage": "awaiting_review",
-        "nextAction": "wait"
+        "stage": "rejected",
+        "nextAction": "review_feedback",
+        "feedback": "other_candidate",
+        "rejectionStage": "before_interview",
+        "decisionAt": "2026-09-11T16:45:00-04:00"
       }
     },
     {
