@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14T20:37:16.128149+00:00",
+  "updatedAt": "2026-09-17T21:10:32.823307+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -1416,7 +1416,7 @@
       "submittedAt": "2026-09-01T04:55:09+00:00",
       "submittedDay": "2026-09-01",
       "addedAt": "2026-09-01T03:10:59+00:00",
-      "updatedAt": "2026-09-09T16:54:57+00:00",
+      "updatedAt": "2026-09-17T21:10:32+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -1450,15 +1450,24 @@
             "nextAction": "prepare_interview",
             "nextAt": "2026-09-16T15:30:00-04:00"
           }
+        },
+        {
+          "at": "2026-09-17T21:10:32+00:00",
+          "progress": {
+            "stage": "interview",
+            "round": 1,
+            "roundType": "intro",
+            "roundState": "completed",
+            "nextAction": "await_result"
+          }
         }
       ],
       "progress": {
         "stage": "interview",
         "round": 1,
         "roundType": "intro",
-        "roundState": "scheduled",
-        "nextAction": "prepare_interview",
-        "nextAt": "2026-09-16T15:30:00-04:00"
+        "roundState": "completed",
+        "nextAction": "await_result"
       }
     },
     {
@@ -2159,11 +2168,11 @@
       "location": "Palo Alto, CA",
       "url": "https://jobs.ashbyhq.com/metamorphic/549c8d6c-9477-4daa-8cf8-0b3d7f339d96",
       "category": "Robotics & Physical AI",
-      "status": "needs_input",
+      "status": "interview",
       "submittedAt": "2026-09-03T04:29:35+00:00",
       "submittedDay": "2026-09-03",
       "addedAt": "2026-09-01T03:25:20+00:00",
-      "updatedAt": "2026-09-14T20:36:26+00:00",
+      "updatedAt": "2026-09-17T21:10:32+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -2188,6 +2197,10 @@
         {
           "status": "needs_input",
           "at": "2026-09-14T20:36:26+00:00"
+        },
+        {
+          "status": "interview",
+          "at": "2026-09-17T21:10:32+00:00"
         }
       ],
       "milestones": [
@@ -2197,10 +2210,21 @@
             "stage": "screening",
             "nextAction": "wait"
           }
+        },
+        {
+          "at": "2026-09-17T21:10:32+00:00",
+          "progress": {
+            "stage": "interview",
+            "roundType": "intro",
+            "roundState": "completed",
+            "nextAction": "wait"
+          }
         }
       ],
       "progress": {
-        "stage": "screening",
+        "stage": "interview",
+        "roundType": "intro",
+        "roundState": "completed",
         "nextAction": "wait"
       }
     },
