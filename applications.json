@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17T21:10:32.823307+00:00",
+  "updatedAt": "2026-09-19T07:19:25.303441+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -608,19 +608,28 @@
       "id": 21,
       "company": "Anthropic",
       "title": "Research Engineer, Machine Learning (Reinforcement Learning)",
-      "location": "San Francisco, CA; New York, NY",
+      "location": "San Francisco, CA / New York, NY",
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4613568008",
       "category": "RL & Language Models",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-07-27T07:20:29+00:00",
-      "updatedAt": "2026-09-05T16:11:40+00:00",
-      "history": [],
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -645,20 +654,29 @@
     {
       "id": 23,
       "company": "ByteDance",
-      "title": "Research Scientist in Multimodal Interaction and World Model - Seed - Graduates - 2027 Start (PhD)",
+      "title": "Research Scientist Graduate (Seed-Multimodal Interaction and World Model) - 2027 Start (PhD)",
       "location": "San Jose, CA",
       "url": "https://joinbytedance.com/search/7623543401908848949",
       "category": "Research & Applied AI",
-      "status": "shortlisted",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-07-27T07:20:29+00:00",
-      "updatedAt": "2026-09-05T16:11:40+00:00",
-      "history": [],
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -668,16 +686,25 @@
       "location": "Seattle, WA",
       "url": "https://joinbytedance.com/search/7629847900210399493",
       "category": "Research & Applied AI",
-      "status": "shortlisted",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-07-27T07:20:29+00:00",
-      "updatedAt": "2026-09-05T16:11:40+00:00",
-      "history": [],
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -5588,7 +5615,7 @@
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-09-08T05:37:14+00:00",
-      "updatedAt": "2026-09-08T06:30:10+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
       "history": [
         {
           "status": "draft",
@@ -6604,6 +6631,470 @@
         {
           "status": "needs_input",
           "at": "2026-09-09T18:22:37+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 228,
+      "company": "Skild AI",
+      "title": "Research Engineer",
+      "location": "Pittsburgh, San Mateo",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4407015008",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T06:47:37+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T06:45:49+00:00",
+      "updatedAt": "2026-09-19T06:47:37+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T06:47:18+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-19T06:47:18+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T06:47:37+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 229,
+      "company": "Skild AI",
+      "title": "Robotics Software Engineer",
+      "location": "Pittsburgh, San Mateo, Bengaluru",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/4136373008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T06:48:47+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T06:45:50+00:00",
+      "updatedAt": "2026-09-19T06:48:47+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T06:48:17+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-19T06:48:17+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T06:48:47+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 230,
+      "company": "1X",
+      "title": "Open Call – Research Engineer / Scientist",
+      "location": "San Carlos, CA",
+      "url": "https://jobs.ashbyhq.com/1x/c1e085fa-16b5-4f5d-963b-52e20ee339a6",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T06:53:12+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T06:50:25+00:00",
+      "updatedAt": "2026-09-19T06:53:12+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T06:51:57+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-19T06:51:57+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T06:53:12+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 231,
+      "company": "Intrinsic",
+      "title": "Robotics Software Engineer - Grasping",
+      "location": "Mountain View, California",
+      "url": "https://job-boards.greenhouse.io/intrinsicrobotics/jobs/6185817004",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T06:54:39+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T06:53:12+00:00",
+      "updatedAt": "2026-09-19T06:54:39+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T06:54:00+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-19T06:54:00+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T06:54:39+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 232,
+      "company": "Tesla",
+      "title": "Reinforcement Learning Engineer, Policy, Optimus",
+      "location": "Palo Alto, CA",
+      "url": "https://www.tesla.com/careers/search/job/reinforcement-learning-engineer-optimus-222416",
+      "category": "RL & Language Models",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T06:59:16+00:00",
+      "updatedAt": "2026-09-19T07:01:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:01:36+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:01:36+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 233,
+      "company": "Zoox",
+      "title": "Software Engineer - Motion Planning",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/7dd45151-9d8a-45a4-bb33-86fb88c1995d",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T06:59:16+00:00",
+      "updatedAt": "2026-09-19T07:01:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:01:36+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:01:36+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 234,
+      "company": "Toyota Research Institute",
+      "title": "Machine Learning Research Scientist, Mechanical Intuition in Multimodal Models",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.lever.co/tri/8851c6af-6a0f-4fc2-8805-8d8b266d1dd3",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T06:59:16+00:00",
+      "updatedAt": "2026-09-19T07:01:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:01:36+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:01:36+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 235,
+      "company": "OpenAI",
+      "title": "Research Engineer/Research Scientist, RL/Reasoning",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/openai/7e198d81-34e0-48b6-b64e-a501a75f9d53",
+      "category": "RL & Language Models",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T06:59:16+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 236,
+      "company": "Amazon",
+      "title": "Applied Scientist - Reinforcement learning, OMHS SCS",
+      "location": "Boston / North Reading, MA",
+      "url": "https://amazon.jobs/en/jobs/10492036/applied-scientist-reinforcement-learning-omhs-scs",
+      "category": "RL & Language Models",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T06:59:16+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 237,
+      "company": "Boston Dynamics",
+      "title": "Research Scientist, Reinforcement Learning - Atlas",
+      "location": "Waltham, MA",
+      "url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Research-Scientist--Reinforcement-Learning---Atlas-_R2708",
+      "category": "RL & Language Models",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T06:59:16+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 238,
+      "company": "Boston Dynamics",
+      "title": "Research Engineer, Atlas Physics Simulation for RL",
+      "location": "Waltham, MA",
+      "url": "https://bostondynamics.wd1.myworkdayjobs.com/en-US/Boston_Dynamics/job/Research-Engineer--Atlas-Physics-Simulation-for-RL_R2741",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T06:59:16+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "applying",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 239,
+      "company": "Nimble Robotics",
+      "title": "AI Robotics Research Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4226047009",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:04:54+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:02:35+00:00",
+      "updatedAt": "2026-09-19T07:04:54+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:04:54+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:04:54+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 240,
+      "company": "Wayve",
+      "title": "Research Scientist, Robot Foundation Model",
+      "location": "Sunnyvale, CA",
+      "url": "https://wayve.firststage.co/jobs/C9T9DC2N26/view",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:02:35+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 241,
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
+      "location": "Santa Clara, CA",
+      "url": "https://jobs.nvidia.com/careers",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:09:43+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 242,
+      "company": "Amazon",
+      "title": "Applied Scientist II",
+      "location": "Sunnyvale, CA / North Reading, MA",
+      "url": "https://amazon.jobs/en/jobs/10403261/applied-scientist-ii",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:09:43+00:00",
+      "updatedAt": "2026-09-19T07:18:20+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:18:20+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:18:20+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 243,
+      "company": "Zoox",
+      "title": "Software Engineer, Fleet Simulation (Core Data Science)",
+      "location": "Foster City, CA",
+      "url": "https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:09:43+00:00",
+      "updatedAt": "2026-09-19T07:15:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:15:58+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:15:58+00:00"
         }
       ],
       "milestones": [],
