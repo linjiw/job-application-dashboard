@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T07:19:25.303441+00:00",
+  "updatedAt": "2026-09-19T07:54:27.708820+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -7101,6 +7101,450 @@
       "progress": {
         "stage": "input_needed",
         "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 244,
+      "company": "Affirm",
+      "title": "Machine Learning Engineer II (Underwriting ML)",
+      "location": "Remote US",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7822387003",
+      "category": "Machine Learning",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:29:32+00:00",
+      "updatedAt": "2026-09-19T07:49:29+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:49:29+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:49:29+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 245,
+      "company": "Datadog",
+      "title": "Senior Applied Scientist",
+      "location": "New York, New York, USA",
+      "url": "https://careers.datadoghq.com/detail/8164181?gh_jid=8164181",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:29:32+00:00",
+      "updatedAt": "2026-09-19T07:49:30+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:49:30+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:49:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 246,
+      "company": "Scale AI",
+      "title": "Machine Learning Research Scientist, Evaluations",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:29:32+00:00",
+      "updatedAt": "2026-09-19T07:49:30+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:49:30+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:49:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 247,
+      "company": "Scale AI",
+      "title": "Machine Learning Research Scientist, Post-Training",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005",
+      "category": "RL & Language Models",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:29:32+00:00",
+      "updatedAt": "2026-09-19T07:49:30+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:49:30+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:49:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 248,
+      "company": "Together AI",
+      "title": "Machine Learning Engineer - Inference",
+      "location": "San Francisco",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/4385540007",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:40:06+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:29:32+00:00",
+      "updatedAt": "2026-09-19T07:40:06+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:40:06+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:40:06+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 249,
+      "company": "Allen Institute for AI (Ai2)",
+      "title": "Research Engineer, Asta",
+      "location": "Seattle, WA",
+      "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/7899565",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:29:32+00:00",
+      "updatedAt": "2026-09-19T07:49:30+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:49:30+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:49:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 250,
+      "company": "Mariana Minerals",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco; Ann Arbor; Houston",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/44c92dd6-55f2-4e44-9360-bf4676466dac",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:31:36+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:30:13+00:00",
+      "updatedAt": "2026-09-19T07:31:36+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:31:36+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:31:36+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 251,
+      "company": "Hayden AI",
+      "title": "Deep Learning Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/haydenai/f9da378a-156e-4fa4-8d8c-34580a05b4c9",
+      "category": "Machine Learning",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:30:13+00:00",
+      "updatedAt": "2026-09-19T07:49:30+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:49:30+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:49:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 252,
+      "company": "Featherless AI",
+      "title": "Machine Learning Engineer — AI Architecture Research",
+      "location": "Remote (world)",
+      "url": "https://jobs.ashbyhq.com/featherlessai/1de39e56-c182-4e22-a09c-887852609b0f",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:32:45+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:30:13+00:00",
+      "updatedAt": "2026-09-19T07:32:45+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:32:45+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:32:45+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 253,
+      "company": "Point72",
+      "title": "Machine Learning Engineer",
+      "location": "New York",
+      "url": "https://job-boards.greenhouse.io/point72/jobs/8170176002",
+      "category": "Machine Learning",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:30:13+00:00",
+      "updatedAt": "2026-09-19T07:49:30+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:49:30+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-09-19T07:49:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 254,
+      "company": "Goodfire",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco; New York",
+      "url": "https://job-boards.greenhouse.io/goodfire/jobs/5019847008",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:32:13+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:30:13+00:00",
+      "updatedAt": "2026-09-19T07:32:13+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:32:13+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:32:13+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 255,
+      "company": "Capable Labs",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/capable/06bf1e55-a317-462a-872d-472caef579ab",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:34:57+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:34:00+00:00",
+      "updatedAt": "2026-09-19T07:34:57+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:34:57+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:34:57+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 256,
+      "company": "Eragon",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/Eragon/59218142-8bfd-4b49-90d9-bdc7f2dd948b",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:35:22+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:34:00+00:00",
+      "updatedAt": "2026-09-19T07:35:22+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:35:22+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:35:22+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 257,
+      "company": "Aven",
+      "title": "Machine Learning Engineer",
+      "location": "Campbell, CA",
+      "url": "https://jobs.ashbyhq.com/Aven/b1bdc3be-89c6-4645-8e79-8ea528f058da",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:42:49+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:34:00+00:00",
+      "updatedAt": "2026-09-19T07:42:49+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:42:49+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:42:49+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 258,
+      "company": "DoorDash",
+      "title": "Machine Learning Engineer, Marketplace Optimization",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7580407",
+      "category": "Machine Learning",
+      "status": "skipped",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-19T07:34:00+00:00",
+      "updatedAt": "2026-09-19T07:49:30+00:00",
+      "history": [
+        {
+          "status": "skipped",
+          "at": "2026-09-19T07:49:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "closed",
+        "nextAction": "none"
+      }
+    },
+    {
+      "id": 259,
+      "company": "Bedrock Robotics",
+      "title": "Internship 2027 Behavior Machine Learning Engineer, World Models",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-09-19T07:50:07+00:00",
+      "submittedDay": "2026-09-19",
+      "addedAt": "2026-09-19T07:47:33+00:00",
+      "updatedAt": "2026-09-19T07:50:07+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-09-19T07:50:07+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-09-19T07:50:07+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     }
   ]
