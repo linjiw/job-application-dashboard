@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T07:55:20.824992+00:00",
+  "updatedAt": "2026-09-30T15:34:59.923008+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -2163,11 +2163,11 @@
       "location": "Santa Clara, CA",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2027-Internships--PhD-Research-Autonomous-Vehicles_JR2023838",
       "category": "Robotics & Physical AI",
-      "status": "needs_input",
+      "status": "expired",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-09-01T03:25:20+00:00",
-      "updatedAt": "2026-09-05T16:11:40+00:00",
+      "updatedAt": "2026-09-30T15:34:53+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -2180,12 +2180,16 @@
         {
           "status": "needs_input",
           "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "expired",
+          "at": "2026-09-30T15:34:53+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "closed",
+        "nextAction": "none"
       }
     },
     {
@@ -8273,6 +8277,30 @@
       "progress": {
         "stage": "awaiting_review",
         "nextAction": "wait"
+      }
+    },
+    {
+      "id": 286,
+      "company": "NVIDIA",
+      "title": "Research Interns",
+      "location": "Not specified",
+      "url": "https://www.linkedin.com/posts/josemalvarezlopez_were-hiring-research-interns-at-nvidia-activity-7508248534463410176-pGWf",
+      "category": "Research & Applied AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-09-30T15:33:02+00:00",
+      "updatedAt": "2026-09-30T15:34:53+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-09-30T15:34:53+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
       }
     }
   ]
