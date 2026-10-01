@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30T16:23:08.467426+00:00",
+  "updatedAt": "2026-10-01T06:16:34.077099+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -8736,6 +8736,593 @@
           "at": "2026-09-30T16:15:32+00:00"
         }
       ],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 293,
+      "company": "Waabi",
+      "title": "Research Scientist, Simulation Agents",
+      "location": "Remote US & Canada",
+      "url": "https://jobs.lever.co/waabi/48a13158-5489-4fac-8643-2d4e2fdc410e",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:20:40+00:00",
+      "updatedAt": "2026-10-01T05:51:02+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-01T05:51:02+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 294,
+      "company": "Strive Robotics",
+      "title": "Robotics Software Intern",
+      "location": "Boston, MA",
+      "url": "https://striverobotics.ai/careers/robotics-software-intern",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T05:53:23+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:23:23+00:00",
+      "updatedAt": "2026-10-01T05:53:23+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T05:53:23+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T05:53:23+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 295,
+      "company": "Bracket Bot",
+      "title": "Robotics Engineering Intern",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/bracket-bot/aecb5cb3-a96b-4ba8-863d-a1ad45414086",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T05:52:22+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:23:23+00:00",
+      "updatedAt": "2026-10-01T05:52:22+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T05:52:22+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T05:52:22+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 296,
+      "company": "Waabi",
+      "title": "Research Internship/Co-op",
+      "location": "Toronto, ON / San Francisco, CA / Remote US",
+      "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:23:23+00:00",
+      "updatedAt": "2026-10-01T05:23:23+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 297,
+      "company": "Modal",
+      "title": "ML Research Intern",
+      "location": "New York",
+      "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T05:47:40+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:24:21+00:00",
+      "updatedAt": "2026-10-01T05:47:40+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T05:47:40+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T05:47:40+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 298,
+      "company": "Mechanize",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:24:21+00:00",
+      "updatedAt": "2026-10-01T05:24:21+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 299,
+      "company": "Bracket Bot",
+      "title": "Machine Learning Research Engineer",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/bracket-bot/28f1316f-e08b-4c26-8c6f-3ca307cc4125",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T05:54:24+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:39:03+00:00",
+      "updatedAt": "2026-10-01T05:54:24+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T05:54:24+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T05:54:24+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 300,
+      "company": "Normal Computing",
+      "title": "AI Research Resident",
+      "location": "New York City",
+      "url": "https://jobs.ashbyhq.com/normalcomputing/975c754f-e5dd-4137-9e3e-63c81405d84f",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:28+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:39:03+00:00",
+      "updatedAt": "2026-10-01T06:13:28+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:28+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:28+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 301,
+      "company": "Cohere",
+      "title": "Software Engineer Intern (Winter 2027)",
+      "location": "Canada; Dubai, London, United States, United Kingdom",
+      "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:28+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:39:03+00:00",
+      "updatedAt": "2026-10-01T06:13:28+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:28+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:28+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 302,
+      "company": "Cohere",
+      "title": "Research Internship (Winter 2027)",
+      "location": "Canada; San Francisco, Europe, London, United States, United Kingdom, Toronto, Montreal",
+      "url": "https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:28+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:39:03+00:00",
+      "updatedAt": "2026-10-01T06:13:28+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:28+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:28+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 303,
+      "company": "Pokee AI",
+      "title": "RL AI Research Intern",
+      "location": "Remote US preferred;Singapore/Remote also listed",
+      "url": "https://pokee.ai/careers/rl-ai-research-intern",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:28+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:39:03+00:00",
+      "updatedAt": "2026-10-01T06:13:28+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:28+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:28+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 304,
+      "company": "Droyd Robotics",
+      "title": "Machine Learning Intern",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:29+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T06:13:29+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:29+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:29+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 305,
+      "company": "Droyd Robotics",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:29+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T06:13:29+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:29+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:29+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 306,
+      "company": "Cerebras",
+      "title": "Applied Machine Learning Research Scientist",
+      "location": "United States and Canada;",
+      "url": "https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T05:47:40+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 307,
+      "company": "Quadrillion Labs",
+      "title": "Research Intern",
+      "location": "New York City;",
+      "url": "https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:58+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T06:13:58+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:58+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 308,
+      "company": "Simular",
+      "title": "PhD Research Intern",
+      "location": "Palo Alto; Singapore",
+      "url": "https://jobs.ashbyhq.com/simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T05:47:40+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 309,
+      "company": "Bot Auto",
+      "title": "Algorithm Engineer, Deep Learning & Vision (New Grad)",
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5371947008",
+      "category": "Machine Learning",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T05:47:40+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 310,
+      "company": "Bot Auto",
+      "title": "Intern, Deep Learning Engineer",
+      "location": "Houston, TX",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
+      "category": "Machine Learning",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T05:47:40+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 311,
+      "company": "Architect Labs",
+      "title": "Member of Technical Staff - Research Intern",
+      "location": "Palo Alto;",
+      "url": "https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T05:47:40+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 312,
+      "company": "Simular",
+      "title": "Research Scientist",
+      "location": "Palo Alto; Singapore",
+      "url": "https://jobs.ashbyhq.com/simular/7591c872-aba9-4442-8ee0-816064dbacd8",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T05:47:40+00:00",
+      "updatedAt": "2026-10-01T05:47:40+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 313,
+      "company": "Build AI",
+      "title": "Research Intern",
+      "location": "San Francisco",
+      "url": "https://jobs.ashbyhq.com/build-ai/14e404c4-e189-4e49-9ef7-238da9655caf",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:58+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:52:22+00:00",
+      "updatedAt": "2026-10-01T06:13:58+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:58+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 314,
+      "company": "Parallel",
+      "title": "Early Career Research Engineer",
+      "location": "Palo Alto",
+      "url": "https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:58+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:52:22+00:00",
+      "updatedAt": "2026-10-01T06:13:58+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:58+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 315,
+      "company": "Exa",
+      "title": "Software Engineer, Intern",
+      "location": "San Francisco, California",
+      "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:13:58+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T05:52:22+00:00",
+      "updatedAt": "2026-10-01T06:13:58+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:13:58+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:13:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 316,
+      "company": "Schonfeld",
+      "title": "2027 PhD Quantitative Research Intern",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
+      "category": "Research & Applied AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-01T06:15:43+00:00",
+      "updatedAt": "2026-10-01T06:15:43+00:00",
+      "history": [],
       "milestones": [],
       "progress": {
         "stage": "preparing",
