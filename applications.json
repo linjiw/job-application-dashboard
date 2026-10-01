@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T06:16:34.077099+00:00",
+  "updatedAt": "2026-10-01T06:40:21.061620+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -8829,16 +8829,21 @@
       "location": "Toronto, ON / San Francisco, CA / Remote US",
       "url": "https://jobs.lever.co/waabi/0fd4e30b-9bd1-4b53-9043-6088457363cb",
       "category": "Research & Applied AI",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-01T05:23:23+00:00",
-      "updatedAt": "2026-10-01T05:23:23+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:28:49+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-01T06:28:49+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -8876,16 +8881,21 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e",
       "category": "Software & Infrastructure",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-01T05:24:21+00:00",
-      "updatedAt": "2026-10-01T05:24:21+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:28:49+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-01T06:28:49+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -9091,16 +9101,21 @@
       "location": "United States and Canada;",
       "url": "https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503",
       "category": "Research & Applied AI",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-01T05:47:40+00:00",
-      "updatedAt": "2026-10-01T05:47:40+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:28:49+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-01T06:28:49+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -9138,16 +9153,21 @@
       "location": "Palo Alto; Singapore",
       "url": "https://jobs.ashbyhq.com/simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009",
       "category": "Research & Applied AI",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-01T05:47:40+00:00",
-      "updatedAt": "2026-10-01T05:47:40+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:28:49+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-01T06:28:49+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -9157,16 +9177,25 @@
       "location": "Houston, TX",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5371947008",
       "category": "Machine Learning",
-      "status": "reviewed",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:19:52+00:00",
+      "submittedDay": "2026-10-01",
       "addedAt": "2026-10-01T05:47:40+00:00",
-      "updatedAt": "2026-10-01T05:47:40+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:19:52+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:19:52+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:19:52+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -9176,16 +9205,25 @@
       "location": "Houston, TX",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5289440008",
       "category": "Machine Learning",
-      "status": "reviewed",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:19:52+00:00",
+      "submittedDay": "2026-10-01",
       "addedAt": "2026-10-01T05:47:40+00:00",
-      "updatedAt": "2026-10-01T05:47:40+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:19:52+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:19:52+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:19:52+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -9195,16 +9233,25 @@
       "location": "Palo Alto;",
       "url": "https://jobs.ashbyhq.com/architect/1999377b-b23b-461f-b79a-d4edce0d46b1",
       "category": "Research & Applied AI",
-      "status": "reviewed",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:19:53+00:00",
+      "submittedDay": "2026-10-01",
       "addedAt": "2026-10-01T05:47:40+00:00",
-      "updatedAt": "2026-10-01T05:47:40+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:19:53+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:19:53+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:19:53+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -9317,16 +9364,81 @@
       "location": "New York, New York, United States",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8172074",
       "category": "Research & Applied AI",
-      "status": "reviewed",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:28:18+00:00",
+      "submittedDay": "2026-10-01",
       "addedAt": "2026-10-01T06:15:43+00:00",
-      "updatedAt": "2026-10-01T06:15:43+00:00",
-      "history": [],
+      "updatedAt": "2026-10-01T06:28:18+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:28:18+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:28:18+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 317,
+      "company": "AXQ Capital",
+      "title": "Quantitative Research Intern (PhD, Summer 2027)",
+      "location": "New York",
+      "url": "https://job-boards.greenhouse.io/axq/jobs/6181069004",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:40:05+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T06:20:29+00:00",
+      "updatedAt": "2026-10-01T06:40:05+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:40:05+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:40:05+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 318,
+      "company": "Schonfeld",
+      "title": "2027 Software Engineering Intern",
+      "location": "New York, New York, United States",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-01T06:40:05+00:00",
+      "submittedDay": "2026-10-01",
+      "addedAt": "2026-10-01T06:20:29+00:00",
+      "updatedAt": "2026-10-01T06:40:05+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-01T06:40:05+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-01T06:40:05+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     }
   ]
