@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T06:40:21.061620+00:00",
+  "updatedAt": "2026-10-02T07:03:09.200626+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -1416,7 +1416,7 @@
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-09-01T03:10:59+00:00",
-      "updatedAt": "2026-09-01T04:41:25+00:00",
+      "updatedAt": "2026-10-02T06:48:40+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -4362,15 +4362,15 @@
     {
       "id": 147,
       "company": "Goaly",
-      "title": "Member of Technical Staff, Research — Early Career(PHD)",
-      "location": "Menlo Park, CA",
+      "title": "AI Research Scientist - Early Career (PHD/MS)",
+      "location": "Palo Alto, CA, USA",
       "url": "https://jobs.ashbyhq.com/goaly/ffc80152-df35-45d6-8c2c-36ea8b67eb37",
       "category": "Research & Applied AI",
-      "status": "needs_input",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-02T06:45:10+00:00",
+      "submittedDay": "2026-10-02",
       "addedAt": "2026-09-05T23:54:22+00:00",
-      "updatedAt": "2026-09-08T05:57:59+00:00",
+      "updatedAt": "2026-10-02T06:45:10+00:00",
       "history": [
         {
           "status": "draft",
@@ -4379,12 +4379,16 @@
         {
           "status": "needs_input",
           "at": "2026-09-05T23:54:46+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T06:45:10+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -4785,14 +4789,14 @@
       "id": 160,
       "company": "Trace",
       "title": "Researcher",
-      "location": "New York, NY",
+      "location": "NYC",
       "url": "https://jobs.ashbyhq.com/tracelabs/7c8ad43b-bb8c-4cc2-8004-25a66d575822",
       "category": "Research & Applied AI",
-      "status": "needs_input",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-02T06:50:19+00:00",
+      "submittedDay": "2026-10-02",
       "addedAt": "2026-09-07T02:25:34+00:00",
-      "updatedAt": "2026-09-08T05:08:02+00:00",
+      "updatedAt": "2026-10-02T06:50:19+00:00",
       "history": [
         {
           "status": "draft",
@@ -4801,12 +4805,16 @@
         {
           "status": "needs_input",
           "at": "2026-09-07T02:26:16+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T06:50:19+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -5080,11 +5088,11 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/intrinsic-safety/66dfd37e-6df5-4f89-8454-b3005bd6e1aa",
       "category": "Research & Applied AI",
-      "status": "needs_input",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-02T06:48:48+00:00",
+      "submittedDay": "2026-10-02",
       "addedAt": "2026-09-07T02:50:42+00:00",
-      "updatedAt": "2026-09-08T06:15:44+00:00",
+      "updatedAt": "2026-10-02T06:48:48+00:00",
       "history": [
         {
           "status": "draft",
@@ -5093,12 +5101,16 @@
         {
           "status": "needs_input",
           "at": "2026-09-07T02:51:21+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T06:48:48+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -5461,14 +5473,14 @@
       "id": 181,
       "company": "Primary",
       "title": "Research Engineer – AI",
-      "location": "New York City",
+      "location": "United States",
       "url": "https://jobs.ashbyhq.com/theprimary/f4649b17-4a4c-4822-81ac-2f39b83aaa4a",
       "category": "Research & Applied AI",
-      "status": "needs_input",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-02T06:45:57+00:00",
+      "submittedDay": "2026-10-02",
       "addedAt": "2026-09-07T03:17:03+00:00",
-      "updatedAt": "2026-09-08T05:12:29+00:00",
+      "updatedAt": "2026-10-02T06:45:57+00:00",
       "history": [
         {
           "status": "draft",
@@ -5477,12 +5489,16 @@
         {
           "status": "needs_input",
           "at": "2026-09-07T03:17:31+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T06:45:57+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -6163,14 +6179,14 @@
       "id": 204,
       "company": "Simile",
       "title": "Evaluations - Member of Technical Staff",
-      "location": "San Francisco; New York",
+      "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662",
       "category": "Software & Infrastructure",
       "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-09-08T06:10:48+00:00",
-      "updatedAt": "2026-09-08T06:12:36+00:00",
+      "updatedAt": "2026-10-02T06:48:16+00:00",
       "history": [
         {
           "status": "draft",
@@ -9439,6 +9455,185 @@
       "progress": {
         "stage": "awaiting_review",
         "nextAction": "wait"
+      }
+    },
+    {
+      "id": 319,
+      "company": "Stealth Robotics",
+      "title": "Member of Technical Staff - Robot Learning",
+      "location": "Greater Boston, MA",
+      "url": "https://www.linkedin.com/jobs/view/4465462001",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T06:31:34+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T06:22:00+00:00",
+      "updatedAt": "2026-10-02T06:31:34+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T06:31:34+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T06:31:34+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 320,
+      "company": "Lightfield",
+      "title": "Software Engineer, Infrastructure (Early Career)",
+      "location": "Cambridge, MA",
+      "url": "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T06:36:30+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T06:25:23+00:00",
+      "updatedAt": "2026-10-02T06:36:30+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T06:36:30+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T06:36:30+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 321,
+      "company": "Lightfield",
+      "title": "Software Engineer, Applied AI (Early Career)",
+      "location": "HQ: San Francisco",
+      "url": "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T06:42:21+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T06:25:23+00:00",
+      "updatedAt": "2026-10-02T06:42:21+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T06:42:21+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T06:42:21+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 322,
+      "company": "One Robot",
+      "title": "Machine Learning Intern",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.ycombinator.com/companies/one-robot/jobs/tJSlTgB-machine-learning-intern",
+      "category": "Machine Learning",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T06:29:53+00:00",
+      "updatedAt": "2026-10-02T06:34:04+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 323,
+      "company": "FieldAI",
+      "title": "Simulation, Sim to Real (Internship Program)",
+      "location": "Irvine, CA",
+      "url": "https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8",
+      "category": "Robotics & Physical AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T06:34:42+00:00",
+      "updatedAt": "2026-10-02T06:34:42+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 324,
+      "company": "Honda Research Institute USA",
+      "title": "Research Intern: Policy Learning and Action Grounding for Multimodal Embodied Agents",
+      "location": "San Jose, CA",
+      "url": "https://usa.honda-ri.com/-/research-intern-policy-learning-and-action-grounding-for-multimodal-embodied-agents",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T06:42:49+00:00",
+      "updatedAt": "2026-10-02T06:42:49+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 325,
+      "company": "Honda Research Institute USA",
+      "title": "Research Intern: Learning Based Motion Planning",
+      "location": "Mountain View, CA",
+      "url": "https://usa.honda-ri.com/-/research-intern-learning-based-motion-planning",
+      "category": "Research & Applied AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T06:42:49+00:00",
+      "updatedAt": "2026-10-02T06:42:49+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 326,
+      "company": "Mitsubishi Electric Research Laboratories (MERL)",
+      "title": "Internship - Embodied AI & Humanoid Robotics",
+      "location": "Cambridge, MA",
+      "url": "https://merl.clearcompany.com/careers/jobs/e620640e-7cf0-5449-b4b3-b5b90dbadbd9/apply",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T06:57:31+00:00",
+      "updatedAt": "2026-10-02T06:57:31+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
       }
     }
   ]
