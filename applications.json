@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T07:03:09.200626+00:00",
+  "updatedAt": "2026-10-02T08:31:57.273009+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -121,16 +121,21 @@
       "location": "San Francisco, CA or New York, NY",
       "url": "https://ats.rippling.com/rippling/jobs/82c13e8f-ae96-4c60-a872-c0ddf9eb0781",
       "category": "Machine Learning",
-      "status": "discovered",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-07-27T06:38:55+00:00",
-      "updatedAt": "2026-09-05T16:11:40+00:00",
-      "history": [],
+      "updatedAt": "2026-10-02T07:33:06+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-02T07:33:06+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -1412,11 +1417,11 @@
       "location": "Houston, TX",
       "url": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630",
       "category": "Machine Learning",
-      "status": "skipped",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:05:46+00:00",
+      "submittedDay": "2026-10-02",
       "addedAt": "2026-09-01T03:10:59+00:00",
-      "updatedAt": "2026-10-02T06:48:40+00:00",
+      "updatedAt": "2026-10-02T07:05:46+00:00",
       "history": [
         {
           "status": "shortlisted",
@@ -1429,12 +1434,16 @@
         {
           "status": "skipped",
           "at": "2026-09-01T04:41:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:05:46+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "closed",
-        "nextAction": "none"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -6182,11 +6191,11 @@
       "location": "San Francisco",
       "url": "https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662",
       "category": "Software & Infrastructure",
-      "status": "needs_input",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:04:52+00:00",
+      "submittedDay": "2026-10-02",
       "addedAt": "2026-09-08T06:10:48+00:00",
-      "updatedAt": "2026-10-02T06:48:16+00:00",
+      "updatedAt": "2026-10-02T07:04:52+00:00",
       "history": [
         {
           "status": "draft",
@@ -6195,12 +6204,16 @@
         {
           "status": "needs_input",
           "at": "2026-09-08T06:12:36+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:04:52+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -9548,16 +9561,21 @@
       "location": "San Francisco, CA, US",
       "url": "https://www.ycombinator.com/companies/one-robot/jobs/tJSlTgB-machine-learning-intern",
       "category": "Machine Learning",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-02T06:29:53+00:00",
-      "updatedAt": "2026-10-02T06:34:04+00:00",
-      "history": [],
+      "updatedAt": "2026-10-02T08:11:44+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-02T08:11:44+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -9567,16 +9585,21 @@
       "location": "Irvine, CA",
       "url": "https://jobs.lever.co/field-ai/cce71d31-40a0-407f-b3b9-a586976b89b8",
       "category": "Robotics & Physical AI",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-02T06:34:42+00:00",
-      "updatedAt": "2026-10-02T06:34:42+00:00",
-      "history": [],
+      "updatedAt": "2026-10-02T08:11:44+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-02T08:11:44+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -9586,16 +9609,21 @@
       "location": "San Jose, CA",
       "url": "https://usa.honda-ri.com/-/research-intern-policy-learning-and-action-grounding-for-multimodal-embodied-agents",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
+      "status": "applying",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-02T06:42:49+00:00",
-      "updatedAt": "2026-10-02T06:42:49+00:00",
-      "history": [],
+      "updatedAt": "2026-10-02T07:05:05+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:05:05+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
       }
     },
     {
@@ -9605,16 +9633,21 @@
       "location": "Mountain View, CA",
       "url": "https://usa.honda-ri.com/-/research-intern-learning-based-motion-planning",
       "category": "Research & Applied AI",
-      "status": "discovered",
+      "status": "applying",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-02T06:42:49+00:00",
-      "updatedAt": "2026-10-02T06:42:49+00:00",
-      "history": [],
+      "updatedAt": "2026-10-02T07:15:11+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:15:11+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
       }
     },
     {
@@ -9624,16 +9657,401 @@
       "location": "Cambridge, MA",
       "url": "https://merl.clearcompany.com/careers/jobs/e620640e-7cf0-5449-b4b3-b5b90dbadbd9/apply",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-02T06:57:31+00:00",
-      "updatedAt": "2026-10-02T06:57:31+00:00",
-      "history": [],
+      "updatedAt": "2026-10-02T07:14:55+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-02T07:14:55+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 327,
+      "company": "Nimble Robotics",
+      "title": "Robotics Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4371388009",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:18:49+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:05:20+00:00",
+      "updatedAt": "2026-10-02T07:18:49+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:18:49+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:18:49+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 328,
+      "company": "Bosch USA",
+      "title": "Research Scientist- Robotics AI",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152321949-research-scientist-robotics-ai-",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T07:16:56+00:00",
+      "updatedAt": "2026-10-02T07:23:57+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-02T07:23:57+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 329,
+      "company": "Whatnot",
+      "title": "Software Engineer, 2027 New Grad",
+      "location": "New York, NY; Los Angeles, CA; San Francisco, CA; Seattle, WA",
+      "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:36:06+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:18:22+00:00",
+      "updatedAt": "2026-10-02T07:36:06+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:36:06+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:36:06+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 330,
+      "company": "Nooks",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:46:29+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:24:25+00:00",
+      "updatedAt": "2026-10-02T07:46:29+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:46:29+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:46:29+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 331,
+      "company": "FortyFive",
+      "title": "Software Engineer - Simulation",
+      "location": "Mountain View, CA",
+      "url": "https://jobs.ashbyhq.com/fortyfive/8c328efb-efe2-4345-af6b-58533db23a2b",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T07:29:09+00:00",
+      "updatedAt": "2026-10-02T08:12:00+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-02T08:12:00+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 332,
+      "company": "Human Computer Lab",
+      "title": "Intern - Software/ML Engineer",
+      "location": "San Francisco, CA; Toronto",
+      "url": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:45:09+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:31:50+00:00",
+      "updatedAt": "2026-10-02T07:45:09+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:45:09+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:45:09+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 333,
+      "company": "Human Computer Lab",
+      "title": "ML Engineer",
+      "location": "San Francisco, CA; Toronto",
+      "url": "https://jobs.ashbyhq.com/human-computer-lab/eb62af20-f469-40dc-b0a1-8b7ec59c9225",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:55:18+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:35:00+00:00",
+      "updatedAt": "2026-10-02T07:55:18+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:55:18+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:55:18+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 334,
+      "company": "Zipline",
+      "title": "Software Engineer Intern (Spring 2027)",
+      "location": "South San Francisco, CA",
+      "url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T08:09:53+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:36:35+00:00",
+      "updatedAt": "2026-10-02T08:09:53+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T08:09:53+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T08:09:53+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 335,
+      "company": "Valstad",
+      "title": "Robotics Software Intern, Manipulation & Simulation",
+      "location": "Austin, TX",
+      "url": "https://jobs.ashbyhq.com/valstad/8478558b-c5b5-43d2-b9c0-eae7a1fb30d8",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:55:18+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:41:57+00:00",
+      "updatedAt": "2026-10-02T07:55:18+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:55:18+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:55:18+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 336,
+      "company": "Together AI",
+      "title": "Software Engineer, New Grad (2027)",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T07:55:55+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:45:45+00:00",
+      "updatedAt": "2026-10-02T07:55:55+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T07:55:55+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T07:55:55+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 337,
+      "company": "WeRide",
+      "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+      "location": "San Jose, CA",
+      "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T07:45:57+00:00",
+      "updatedAt": "2026-10-02T08:13:25+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-02T08:13:25+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 338,
+      "company": "Cylake, Inc",
+      "title": "Software Engineer (2027 University Grad)",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.ashbyhq.com/cylake-inc/1d1ac42e-299c-42af-bd7c-b8c5fb07f735",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T08:21:05+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T07:56:43+00:00",
+      "updatedAt": "2026-10-02T08:21:05+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T08:21:05+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T08:21:05+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 339,
+      "company": "Juicebox",
+      "title": "Software Engineer Intern",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T08:15:00+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T08:00:41+00:00",
+      "updatedAt": "2026-10-02T08:15:00+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T08:15:00+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T08:15:00+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 340,
+      "company": "Cylake, Inc",
+      "title": "Security Research Intern (2027 Masters/PhD)",
+      "location": "Sunnyvale, CA",
+      "url": "https://jobs.ashbyhq.com/cylake-inc/9cf7d73e-84cf-4bf6-aaae-75c58f72e56d",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-02T08:29:26+00:00",
+      "submittedDay": "2026-10-02",
+      "addedAt": "2026-10-02T08:14:54+00:00",
+      "updatedAt": "2026-10-02T08:29:26+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-02T08:29:26+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-02T08:29:26+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     }
   ]
