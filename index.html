@@ -13,7 +13,7 @@
 <aside class="sidebar">
  <a class="brand" href="#"><span class="brand-icon">↗</span><span>next chapter<span class="brand-sub">LINJI’S APPLICATION TRACKER</span></span></a>
  <div class="nav-label">WORKSPACE</div>
- <nav aria-label="Main navigation"><a class="active" href="#overview">◫ <span>Overview</span></a><a href="#applications">☷ <span>Applications</span><span id="nav-count"></span></a><a href="#learning">↗ <span>Learn & improve</span></a><a href="#activity">◷ <span>Submission activity</span></a></nav>
+ <nav aria-label="Main navigation"><a class="active" href="#overview">◫ <span>Overview</span></a><a href="#nvidia-focus">◎ <span>NVIDIA focus</span></a><a href="#applications">☷ <span>Applications</span><span id="nav-count"></span></a><a href="#learning">↗ <span>Learn & improve</span></a><a href="#activity">◷ <span>Submission activity</span></a></nav>
  <div class="side-note"><span class="mini-orbit">↗</span><strong>One step closer.</strong><p>A clear record of the work behind the next opportunity.</p></div>
  <div class="profile"><span class="avatar">LW</span><div><strong>Linji Wang</strong><small>2027 · The next chapter</small></div></div>
 </aside>
@@ -27,6 +27,14 @@
   <article class="metric"><span class="metric-label">Needs attention <span>◷</span></span><strong id="attention">—</strong><span class="metric-foot">Input needed or unconfirmed</span></article>
   <article class="metric daily"><div><span class="metric-label">Today’s focus</span><strong><span id="today">—</span><span class="goal-denom"> / 20</span></strong><span class="metric-foot" id="goal-caption">Daily submission goal</span></div><div class="ring" id="goal-ring"><span id="goal-percent">0%</span></div></article>
  </section>
+ <section class="panel nvidia-panel" id="nvidia-focus" aria-labelledby="nvidia-title">
+  <div class="panel-heading"><div><div class="eyebrow">MAIN FOCUS</div><h2 id="nvidia-title">NVIDIA job listings</h2><p>Robotics, physical AI and autonomous driving · ranked for the next conversation</p></div><button id="nvidia-all">View all NVIDIA roles →</button></div>
+  <div id="nvidia-summary" class="nvidia-summary" aria-label="NVIDIA search progress"></div>
+  <p class="nvidia-note">Priority reflects role fit. Posting availability and application progress are shown separately.</p>
+  <div id="nvidia-cards" class="nvidia-cards"></div>
+  <details id="nvidia-more" class="nvidia-more" hidden><summary id="nvidia-more-title">More focus listings</summary><div id="nvidia-more-cards" class="nvidia-cards"></div></details>
+  <details class="nvidia-history"><summary id="nvidia-history-title">Other saved NVIDIA progress</summary><div id="nvidia-history"></div></details>
+ </section>
  <section class="pipeline-section" aria-labelledby="pipeline-title"><div class="section-title"><div><h2 id="pipeline-title">Where things stand</h2><p>Current stages · click a stage to explore the roles</p></div><span class="count-pill" id="pipeline-count"></span></div><div class="pipeline" id="pipeline"></div></section>
  <section class="panel next-actions"><div class="panel-heading"><div><h2>Up next</h2><p>Screening tasks and interview milestones</p></div><button id="all-attention">View all attention items →</button></div><div id="action-list"></div></section>
  <section class="insights" id="activity">
@@ -37,7 +45,7 @@
  <section class="panel application-panel" id="applications">
   <div class="panel-heading"><div><h2>Your applications <span id="result-total" class="count-pill"></span></h2><p>A living record, from first look to final decision.</p></div><div class="view-toggle" aria-label="Display style"><button id="list-view" aria-pressed="true">☷ List</button><button id="timeline-view" aria-pressed="false">◷ Timeline</button></div></div>
   <div class="toolbar"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search company or role…" aria-label="Search company or role"></label><select id="category" aria-label="Filter by category"><option value="">All disciplines</option></select><select id="status" aria-label="Filter by status"><option value="">All statuses</option></select><select id="stage-filter" aria-label="Filter by pipeline stage"><option value="">All stages</option><option value="awaiting_review">Awaiting review</option><option value="input_needed">Needs input</option><option value="screening">Screening task</option><option value="interview">Interview</option><option value="rejected">Rejected</option><option value="offer">Offer</option><option value="unconfirmed">Unconfirmed</option><option value="preparing">Preparing</option><option value="closed">Closed</option></select><select id="sort" aria-label="Sort applications"><option value="recent">Latest activity</option><option value="submitted">Latest submission</option><option value="company">Company A–Z</option></select><button id="clear" class="clear">Reset</button></div>
-  <div class="quick-filters" aria-label="Quick filters"><button data-filter="all" aria-pressed="true">All roles</button><button data-filter="submitted" aria-pressed="false">Submitted</button><button data-filter="attention" aria-pressed="false">Needs attention</button><button data-filter="today" aria-pressed="false">Today</button><span id="showing" role="status"></span></div>
+  <div class="quick-filters" aria-label="Quick filters"><button data-filter="all" aria-pressed="true">All roles</button><button data-filter="submitted" aria-pressed="false">Submitted</button><button data-filter="attention" aria-pressed="false">Needs attention</button><button data-filter="today" aria-pressed="false">Today</button><button id="nvidia-filter" hidden aria-label="Remove NVIDIA company filter">NVIDIA ×</button><span id="showing" role="status"></span></div>
   <div id="results"><p class="empty">Loading your application history…</p></div>
   <div class="pagination"><span id="page-info"></span><div><button id="prev" aria-label="Previous page">← Previous</button><button id="next" aria-label="Next page">Next →</button></div></div>
  </section>

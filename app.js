@@ -2,7 +2,7 @@
 const $ = s => document.querySelector(s);
 const labels={discovered:'Discovered',reviewed:'Reviewed',shortlisted:'Shortlisted',draft:'Draft',ready:'Ready',applying:'Unconfirmed',needs_input:'Needs input',submitted:'Submitted',interview:'Interview',offer:'Offer',rejected:'Rejected',withdrawn:'Withdrawn',expired:'Expired',skipped:'Skipped',archived:'Archived'};
 const colors=['#2459f5','#7198ff','#27a794','#9173dc','#e9a64c'];
-const state={data:null,query:'',category:'',status:'',quick:'all',day:'',sort:'recent',view:'list',page:1,stage:'',cohort:'all',learnCategory:'',listCohort:'all'};
+const state={data:null,query:'',category:'',status:'',quick:'all',day:'',sort:'recent',view:'list',page:1,stage:'',cohort:'all',learnCategory:'',listCohort:'all',company:''};
 const pageSize=15;
 const esc = value => String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const dayKey = d => new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).format(d);
@@ -32,11 +32,12 @@ function summaries(){
  $('#categories').innerHTML=catValues.map((c,i)=>`<button class="category-row" data-category="${esc(c.name)}" aria-label="Filter ${esc(c.name)}"><span class="category-meta"><span>${esc(c.name)}</span><span>${c.count} <span aria-hidden="true">·</span> ${submitted.length?Math.round(c.count/submitted.length*100):0}%</span></span><span class="category-track"><i style="--color:${colors[i]};width:${submitted.length?c.count/submitted.length*100:0}%"></i></span></button>`).join('');
  $('#category').innerHTML='<option value="">All disciplines</option>'+categories.map(c=>`<option>${esc(c)}</option>`).join('');$('#category').value=state.category;
  $('#status').innerHTML='<option value="">All statuses</option>'+Object.keys(labels).filter(s=>rows.some(r=>r.status===s)).map(s=>`<option value="${s}">${labels[s]}</option>`).join('');$('#status').value=state.status;
- renderPipeline();renderLearning();
+ renderNvidia();renderPipeline();renderLearning();
  $('#sync').textContent=`Updated ${fmt(state.data.updatedAt,{month:'short',day:'numeric',hour:'numeric',minute:'2-digit'})}`;
 }
 function filtered(){
  return state.data.applications.filter(r=>{
+  if(state.company&&r.company.trim().toLowerCase()!==state.company)return false;
   if(state.query&&!`${r.company} ${r.title} ${r.location}`.toLowerCase().includes(state.query.toLowerCase()))return false;
   if(state.category&&r.category!==state.category)return false;
   if(state.stage&&stageOf(r)!==state.stage)return false;
@@ -52,10 +53,11 @@ function filtered(){
 function render(){
  if(!state.data)return;
  const all=filtered();const pages=Math.max(1,Math.ceil(all.length/pageSize));state.page=Math.min(state.page,pages);const rows=all.slice((state.page-1)*pageSize,state.page*pageSize);
- $('#result-total').textContent=state.data.applications.length;$('#showing').textContent=`${all.length} results${state.day?' · '+state.day:''}${state.listCohort!=='all'?' · submitted in last '+state.listCohort+' days':''}`;
+ $('#result-total').textContent=state.data.applications.length;$('#showing').textContent=`${all.length} results${state.company==='nvidia'?' · NVIDIA':''}${state.day?' · '+state.day:''}${state.listCohort!=='all'?' · submitted in last '+state.listCohort+' days':''}`;
  $('#page-info').textContent=all.length?`${(state.page-1)*pageSize+1}–${Math.min(state.page*pageSize,all.length)} of ${all.length} roles`:'0 roles';$('#prev').disabled=state.page===1;$('#next').disabled=state.page===pages;
  document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.filter===state.quick)));
  $('#list-view').setAttribute('aria-pressed',String(state.view==='list'));$('#timeline-view').setAttribute('aria-pressed',String(state.view==='timeline'));
+ $('#nvidia-filter').hidden=state.company!=='nvidia';
  if(!all.length){$('#results').innerHTML='<div class="empty"><strong>No matching applications.</strong><p>Try another search or reset the filters.</p></div>';return;}
  if(state.view==='timeline'){
   const groups={};rows.forEach(r=>{const key=dayKey(new Date(r.submittedAt||r.updatedAt));(groups[key]??=[]).push(r)});
@@ -75,7 +77,7 @@ $('#search').addEventListener('input',e=>{state.query=e.target.value;change()});
 $('#category').addEventListener('change',e=>{state.category=e.target.value;change()});
 $('#status').addEventListener('change',e=>{state.status=e.target.value;change()});
 $('#sort').addEventListener('change',e=>{state.sort=e.target.value;change()});
-$('#clear').addEventListener('click',()=>{Object.assign(state,{query:'',category:'',status:'',stage:'',listCohort:'all',day:'',quick:'all',sort:'recent'});$('#search').value='';$('#category').value='';$('#status').value='';$('#sort').value='recent';$('#stage-filter').value='';change()});
+$('#clear').addEventListener('click',()=>{Object.assign(state,{query:'',category:'',status:'',stage:'',listCohort:'all',day:'',quick:'all',sort:'recent',company:''});$('#search').value='';$('#category').value='';$('#status').value='';$('#sort').value='recent';$('#stage-filter').value='';change()});
 $('#prev').addEventListener('click',()=>{state.page--;render()});$('#next').addEventListener('click',()=>{state.page++;render()});
 $('#list-view').addEventListener('click',()=>{state.view='list';render()});$('#timeline-view').addEventListener('click',()=>{state.view='timeline';state.sort='submitted';$('#sort').value='submitted';change()});
 document.addEventListener('click',e=>{let b=e.target.closest('[data-filter]');if(b){state.quick=b.dataset.filter;state.listCohort='all';state.stage='';$('#stage-filter').value='';state.day='';state.status='';$('#status').value='';change()}b=e.target.closest('[data-detail]');if(b)detail(b.dataset.detail);b=e.target.closest('[data-category]');if(b){state.category=b.dataset.category;$('#category').value=state.category;change();$('#applications').scrollIntoView({behavior:'smooth'})}b=e.target.closest('[data-day]');if(b){state.day=b.dataset.day;state.quick='all';change();$('#applications').scrollIntoView({behavior:'smooth'})}});
@@ -96,7 +98,32 @@ const feedbackNames={closer_match:'Other candidates were a closer match',general
 function stageOf(r){return r.progress?.stage||({submitted:'awaiting_review',needs_input:'input_needed',applying:'unconfirmed',interview:'interview',rejected:'rejected',offer:'offer',withdrawn:'withdrawn',expired:'closed',skipped:'closed',archived:'closed'}[r.status]||'preparing')}
 function stageBadge(r){const s=stageOf(r);return `<span class="status-badge stage-${s}">${stageNames[s]||s}</span>`}
 function roundLabel(r){const p=r.progress||{};if(stageOf(r)!=='interview')return stageOf(r)==='screening'?'Assessment pending':'';return `${p.round?'Round '+p.round:'Round not specified'} · ${({intro:'Intro',recruiter:'Recruiter',technical:'Technical',research:'Research',hiring_manager:'Hiring manager',onsite:'Onsite',final:'Final'})[p.roundType]||'Type not specified'} · ${({invited:'Invitation received',scheduled:'Scheduled',completed:'Completed',awaiting_result:'Awaiting result'})[p.roundState]||'Status not specified'}`}
-function focusStage(stage,category='',listCohort='all'){Object.assign(state,{stage,category,listCohort,quick:'all',status:'',query:'',day:'',page:1});$('#stage-filter').value=stage;$('#category').value=category;$('#status').value='';$('#search').value='';render();$('#applications').scrollIntoView({behavior:'smooth'})}
+function focusStage(stage,category='',listCohort='all'){Object.assign(state,{stage,category,listCohort,quick:'all',status:'',query:'',day:'',page:1,company:''});$('#stage-filter').value=stage;$('#category').value=category;$('#status').value='';$('#search').value='';render();$('#applications').scrollIntoView({behavior:'smooth'})}
+function nvidiaRows(){return state.data.applications.filter(r=>r.company.trim().toLowerCase()==='nvidia')}
+function nvidiaFocusRows(){return nvidiaRows().filter(r=>r.focus).sort((a,b)=>(a.focus.rank||51)-(b.focus.rank||51)||a.title.localeCompare(b.title)||a.id-b.id)}
+function focusNvidia(){
+ Object.assign(state,{company:'nvidia',query:'',category:'',status:'',stage:'',listCohort:'all',day:'',quick:'all',sort:'recent',view:'list',page:1});
+ $('#search').value='';$('#category').value='';$('#status').value='';$('#stage-filter').value='';$('#sort').value='recent';
+ render();$('#applications').scrollIntoView({behavior:'smooth'});
+}
+function renderNvidia(){
+ const rows=nvidiaRows(),focus=nvidiaFocusRows(),other=rows.filter(r=>!r.focus).sort((a,b)=>String(b.updatedAt).localeCompare(String(a.updatedAt))||b.id-a.id);
+ const priorities={pursue:'Priority target',stretch:'Stretch target',timing_check:'Confirm timing / eligibility',pipeline:'Existing pipeline'};
+ $('#nvidia-summary').innerHTML=`<div><strong>${focus.length}</strong><span>Focus listings</span></div><div><strong>${rows.length}</strong><span>Saved NVIDIA roles</span></div><div><strong>${rows.filter(r=>['needs_input','applying'].includes(r.status)).length}</strong><span>Needs input / unconfirmed</span></div><div><strong>${rows.filter(r=>r.submittedAt).length}</strong><span>Confirmed submissions</span></div>`;
+ const cards=focus.map(r=>{
+  const f=r.focus,jr=(r.url||'').match(/JR\d+/i)?.[0]||'',checked=f.verifiedOn?`Checked ${fmt(f.verifiedOn+'T12:00:00-04:00')}`:'Check date not recorded';
+  const availability=f.availability==='open'?'Posting open when checked':f.availability==='unavailable'?'Posting unavailable when checked':'Availability not recorded';
+  return `<article class="nvidia-card"><div class="nvidia-card-top"><span class="nvidia-rank">${f.rank?'#'+f.rank:'Focus'}</span><span class="nvidia-priority">${esc(priorities[f.priority]||'Review role fit')}</span></div><h3><button class="role-button" data-detail="${r.id}">${esc(r.title)}</button></h3><p class="nvidia-location">${esc(r.location)}</p><div class="nvidia-role-meta">${jr?`<span>${esc(jr)}</span>`:''}${badge(r.status)}</div><div class="nvidia-check"><span class="availability-${esc(f.availability||'unknown')}">${availability}</span><time${f.verifiedOn?` datetime="${esc(f.verifiedOn)}"`:''}>${checked}</time></div><div class="nvidia-card-actions">${r.url?`<a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">View posting ↗</a>`:''}<button data-detail="${r.id}" aria-label="View progress for ${esc(r.title)}">Progress & details →</button></div></article>`;
+ });
+ $('#nvidia-cards').innerHTML=cards.slice(0,4).join('')||'<p class="empty">NVIDIA focus listings will appear after the next verified search.</p>';
+ $('#nvidia-more').hidden=cards.length<=4;
+ $('#nvidia-more-title').textContent=`More focus listings (${Math.max(0,cards.length-4)})`;
+ $('#nvidia-more-cards').innerHTML=cards.slice(4).join('');
+ $('#nvidia-history-title').textContent=`Other saved NVIDIA progress (${other.length})`;
+ $('#nvidia-history').innerHTML=other.length?other.map(r=>`<div class="nvidia-history-row"><button data-detail="${r.id}">${esc(r.title)}<small>${esc(r.location)}</small></button><div>${badge(r.status)}<small>${r.submittedAt?'Submitted '+fmt(r.submittedAt):'No confirmed submission recorded'}</small></div></div>`).join(''):'<p class="nvidia-note">All saved NVIDIA roles appear in the focus list.</p>';
+}
+$('#nvidia-all').addEventListener('click',focusNvidia);
+$('#nvidia-filter').addEventListener('click',()=>{state.company='';change()});
 function renderPipeline(){
  const rows=state.data.applications;
  const stages=['awaiting_review','input_needed','screening','interview','rejected','offer'];
