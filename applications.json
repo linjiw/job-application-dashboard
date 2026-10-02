@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T21:04:58.615418+00:00",
+  "updatedAt": "2026-10-02T21:30:58.757631+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -10141,6 +10141,56 @@
       },
       "focus": {
         "rank": 8,
+        "priority": "timing_check",
+        "availability": "open",
+        "verifiedOn": "2026-10-02"
+      }
+    },
+    {
+      "id": 343,
+      "company": "NVIDIA",
+      "title": "Senior Research Scientist - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist---Autonomous-Vehicles_JR2005596",
+      "category": "Robotics & Physical AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T21:29:52+00:00",
+      "updatedAt": "2026-10-02T21:29:52+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      },
+      "focus": {
+        "rank": 10,
+        "priority": "timing_check",
+        "availability": "open",
+        "verifiedOn": "2026-10-02"
+      }
+    },
+    {
+      "id": 344,
+      "company": "NVIDIA",
+      "title": "Senior Integration Engineer, End-to-End Model - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Integration-Engineer--End-to-End-Model---Autonomous-Vehicles_JR2025038",
+      "category": "Robotics & Physical AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-02T21:29:52+00:00",
+      "updatedAt": "2026-10-02T21:29:52+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      },
+      "focus": {
+        "rank": 11,
         "priority": "timing_check",
         "availability": "open",
         "verifiedOn": "2026-10-02"
