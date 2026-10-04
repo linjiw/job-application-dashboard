@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T06:15:17.011820+00:00",
+  "updatedAt": "2026-10-04T06:57:34.637918+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -10799,16 +10799,21 @@
       "location": "Not specified",
       "url": "https://oxfordmetrics.pinpointhq.com/register-your-interest/new",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-04T05:59:18+00:00",
-      "updatedAt": "2026-10-04T05:59:18+00:00",
-      "history": [],
+      "updatedAt": "2026-10-04T06:16:45+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T06:16:45+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -10818,16 +10823,25 @@
       "location": "US interest; exact role/location unknown",
       "url": "https://careers.abb/global/en/jointalentcommunity",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-04T06:20:16+00:00",
+      "submittedDay": "2026-10-04",
       "addedAt": "2026-10-04T06:02:04+00:00",
-      "updatedAt": "2026-10-04T06:02:04+00:00",
-      "history": [],
+      "updatedAt": "2026-10-04T06:20:16+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T06:20:16+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-04T06:20:16+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -10837,16 +10851,21 @@
       "location": "Not specified",
       "url": "https://www.hebirobotics.com/careers",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
+      "status": "applying",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-04T06:12:03+00:00",
-      "updatedAt": "2026-10-04T06:12:03+00:00",
-      "history": [],
+      "updatedAt": "2026-10-04T06:37:15+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T06:37:15+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
       }
     },
     {
@@ -10856,16 +10875,21 @@
       "location": "Not specified",
       "url": "https://hello-robot.com/careers",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
+      "status": "applying",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-04T06:12:03+00:00",
-      "updatedAt": "2026-10-04T06:12:03+00:00",
-      "history": [],
+      "updatedAt": "2026-10-04T06:50:39+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T06:50:39+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
       }
     },
     {
@@ -10875,16 +10899,69 @@
       "location": "Palo Alto, California",
       "url": "https://www.tesla.com/careers/search/job/reinforcement-learning-engineer-whole-body-controls-optimus--244485",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-04T06:14:48+00:00",
-      "updatedAt": "2026-10-04T06:14:48+00:00",
-      "history": [],
+      "updatedAt": "2026-10-04T06:34:26+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T06:34:26+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 374,
+      "company": "Bosch USA",
+      "title": "Research Scientist- Vision-Language-Action (VLA) Models",
+      "location": "Sunnyvale, CA, United States",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152321339-research-scientist-vision-language-action-vla-models",
+      "category": "Research & Applied AI",
+      "status": "skipped",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T06:22:40+00:00",
+      "updatedAt": "2026-10-04T06:50:39+00:00",
+      "history": [
+        {
+          "status": "skipped",
+          "at": "2026-10-04T06:50:39+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "closed",
+        "nextAction": "none"
+      }
+    },
+    {
+      "id": 375,
+      "company": "Rainbow Robotics USA Co., Ltd.",
+      "title": "US full-time future interest — civilian robotics software and learning",
+      "location": "Not specified",
+      "url": "https://rainbow-robotics.com/en/careers/talent-pool",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T06:27:30+00:00",
+      "updatedAt": "2026-10-04T06:55:09+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T06:55:09+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
       }
     }
   ]
