@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T05:32:07.505170+00:00",
+  "updatedAt": "2026-10-04T06:15:17.011820+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -10623,21 +10623,25 @@
       "location": "Menlo Park, CA, United States",
       "url": "https://www.metacareers.com/profile/job_details/1436360758394361",
       "category": "Robotics & Physical AI",
-      "status": "needs_input",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-04T05:58:39+00:00",
+      "submittedDay": "2026-10-04",
       "addedAt": "2026-10-04T05:06:03+00:00",
-      "updatedAt": "2026-10-04T05:23:53+00:00",
+      "updatedAt": "2026-10-04T05:58:39+00:00",
       "history": [
         {
           "status": "needs_input",
           "at": "2026-10-04T05:23:53+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-04T05:58:39+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -10671,16 +10675,25 @@
       "location": "Not specified",
       "url": "https://www.qualisys.com/about/careers",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-04T06:03:42+00:00",
+      "submittedDay": "2026-10-04",
       "addedAt": "2026-10-04T05:17:45+00:00",
-      "updatedAt": "2026-10-04T05:28:02+00:00",
-      "history": [],
+      "updatedAt": "2026-10-04T06:03:42+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T05:42:24+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-04T06:03:42+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -10690,16 +10703,21 @@
       "location": "Not specified",
       "url": "https://bionitlabs.com/us/contact-us",
       "category": "Robotics & Physical AI",
-      "status": "discovered",
+      "status": "applying",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-04T05:28:02+00:00",
-      "updatedAt": "2026-10-04T05:28:02+00:00",
-      "history": [],
+      "updatedAt": "2026-10-04T06:02:02+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T06:02:02+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
       }
     },
     {
@@ -10709,11 +10727,159 @@
       "location": "Sunnyvale, CA, United States",
       "url": "https://jobs.smartrecruiters.com/Intuitive/744000149923349-software-engineer-build-and-release-",
       "category": "Software & Infrastructure",
-      "status": "discovered",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-04T05:29:31+00:00",
-      "updatedAt": "2026-10-04T05:29:31+00:00",
+      "updatedAt": "2026-10-04T06:02:54+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T06:02:54+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 367,
+      "company": "PSYONIC",
+      "title": "Robotics Software and Robot Learning — US full-time future interest",
+      "location": "Not specified",
+      "url": "https://www.psyonic.io/careers",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:34:59+00:00",
+      "updatedAt": "2026-10-04T06:07:57+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T06:07:57+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 368,
+      "company": "Fujitsu Research of America",
+      "title": "General career interest — future full-time robotics and robot-learning research",
+      "location": "US research interest; exact role/location not specified",
+      "url": "https://global.fujitsu/en-us/local/technology/research/employment",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:37:48+00:00",
+      "updatedAt": "2026-10-04T06:14:46+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T06:14:46+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 369,
+      "company": "Vicon",
+      "title": "US full-time future interest — robotics software, research and evaluation",
+      "location": "Not specified",
+      "url": "https://oxfordmetrics.pinpointhq.com/register-your-interest/new",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:59:18+00:00",
+      "updatedAt": "2026-10-04T05:59:18+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 370,
+      "company": "ABB",
+      "title": "Future talent-network interest — US robotics engineering and research",
+      "location": "US interest; exact role/location unknown",
+      "url": "https://careers.abb/global/en/jointalentcommunity",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T06:02:04+00:00",
+      "updatedAt": "2026-10-04T06:02:04+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 371,
+      "company": "HEBI Robotics",
+      "title": "US full-time future interest — robotics software and evaluation",
+      "location": "Not specified",
+      "url": "https://www.hebirobotics.com/careers",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T06:12:03+00:00",
+      "updatedAt": "2026-10-04T06:12:03+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 372,
+      "company": "Hello Robot",
+      "title": "US full-time future interest — robotics software and robot learning",
+      "location": "Not specified",
+      "url": "https://hello-robot.com/careers",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T06:12:03+00:00",
+      "updatedAt": "2026-10-04T06:12:03+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 373,
+      "company": "Tesla",
+      "title": "Reinforcement Learning Engineer, Whole Body Controls, Optimus",
+      "location": "Palo Alto, California",
+      "url": "https://www.tesla.com/careers/search/job/reinforcement-learning-engineer-whole-body-controls-optimus--244485",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T06:14:48+00:00",
+      "updatedAt": "2026-10-04T06:14:48+00:00",
       "history": [],
       "milestones": [],
       "progress": {
