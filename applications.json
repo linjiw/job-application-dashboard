@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T21:30:58.757631+00:00",
+  "updatedAt": "2026-10-04T05:32:07.505170+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -10194,6 +10194,531 @@
         "priority": "timing_check",
         "availability": "open",
         "verifiedOn": "2026-10-02"
+      }
+    },
+    {
+      "id": 345,
+      "company": "Aether AI",
+      "title": "Engineer — Robotic Simulation & Synthetic Environments",
+      "location": "SF Bay Area, CA",
+      "url": "https://aetherlabs.ai/careers",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T03:29:56+00:00",
+      "updatedAt": "2026-10-04T03:46:59+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T03:46:59+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 346,
+      "company": "Chestnut Robotics",
+      "title": "Robotics Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://chestnut.bot/career.html",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T03:29:56+00:00",
+      "updatedAt": "2026-10-04T03:53:24+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T03:53:24+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 347,
+      "company": "Motional",
+      "title": "Motion Planning Engineer - Trajectory Generation",
+      "location": "Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States; Remote U.S.",
+      "url": "https://motional.com/open-positions?gh_jid=7980363003",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T03:31:58+00:00",
+      "updatedAt": "2026-10-04T04:11:31+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T04:11:31+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 348,
+      "company": "Robocurve",
+      "title": "Member of Technical Staff — Frontier Robotics Evals",
+      "location": "San Francisco / Berkeley, CA",
+      "url": "https://robocurve.org/careers/mts-frontier-robotics-evals",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T03:33:59+00:00",
+      "updatedAt": "2026-10-04T04:48:43+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T04:11:31+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 349,
+      "company": "Deccan AI",
+      "title": "ML Engineer - Robotics",
+      "location": "Mountain View, CA",
+      "url": "https://app.dover.com/apply/Deccan%20AI/125afee5-e3d0-4527-816c-b2f0a6a63bf7",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-04T04:09:43+00:00",
+      "submittedDay": "2026-10-04",
+      "addedAt": "2026-10-04T03:37:04+00:00",
+      "updatedAt": "2026-10-04T04:48:43+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T04:09:43+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-04T04:09:43+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 350,
+      "company": "Nomadic AI",
+      "title": "Member of Technical Staff, Machine Learning - NomadicML",
+      "location": "San Francisco, California, United States",
+      "url": "https://jobs.ashbyhq.com/Pear-VC/47d8a676-7f3e-4ea7-b89e-0ef87b34bf1e",
+      "category": "Machine Learning",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T03:47:24+00:00",
+      "updatedAt": "2026-10-04T04:11:32+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T04:11:32+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 351,
+      "company": "Apptronik",
+      "title": "IROS 2026 - Robotics & AI Talent",
+      "location": "Austin, Texas & Sunnyvale, California",
+      "url": "https://job-boards.greenhouse.io/apptronik/jobs/6206626004",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T03:50:30+00:00",
+      "updatedAt": "2026-10-04T04:11:32+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T04:11:32+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 352,
+      "company": "Lightwheel",
+      "title": "Full-time Research Engineering — General Interest",
+      "location": "Santa Clara, California, United States",
+      "url": "https://lightwheel.ai/careers",
+      "category": "Research & Applied AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T04:00:11+00:00",
+      "updatedAt": "2026-10-04T04:18:27+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T04:18:27+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 353,
+      "company": "AeroVect",
+      "title": "Mapping Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://jobs.ashbyhq.com/aerovect/0677f8a9-c7dd-4e36-ac45-685fbc28bca4",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-04T04:39:12+00:00",
+      "submittedDay": "2026-10-04",
+      "addedAt": "2026-10-04T04:12:08+00:00",
+      "updatedAt": "2026-10-04T04:39:12+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T04:39:12+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-04T04:39:12+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 354,
+      "company": "Nuro",
+      "title": "Software Engineer, ML Inference Platform",
+      "location": "Mountain View, California (HQ)",
+      "url": "https://nuro.ai/careersitem?gh_jid=8122537",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-10-04T04:46:49+00:00",
+      "submittedDay": "2026-10-04",
+      "addedAt": "2026-10-04T04:21:32+00:00",
+      "updatedAt": "2026-10-04T04:46:49+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T04:46:49+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-04T04:46:49+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 355,
+      "company": "MyoLab AI",
+      "title": "Member of Technical Staff, Machine Learning (Reinforcement/Imitation Learning) — general application pool",
+      "location": "Not specified; US company presence verified, role location unknown",
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLScVt9QEvNwQillFk_YrnhKqgCRzE1LiFBvLgm09hzpzfrcypA/viewform",
+      "category": "RL & Language Models",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T04:26:34+00:00",
+      "updatedAt": "2026-10-04T04:40:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T04:40:17+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 356,
+      "company": "Rockwell Automation",
+      "title": "Advanced Analytics Research Scientist - Industrial Edge Intelligence",
+      "location": "Austin, TX",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Austin-Texas-United-States/Advanced-Analytics-Research-Scientist---Industrial-Edge-Intelligence_R26-4515",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T04:28:47+00:00",
+      "updatedAt": "2026-10-04T04:44:39+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T04:44:39+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 357,
+      "company": "Rerun",
+      "title": "Forward Deployed Engineer",
+      "location": "Remote US, West Coast",
+      "url": "https://jobs.ashbyhq.com/rerun/ee28fed0-9ada-40ac-b828-f1ed633f60e6",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T04:33:33+00:00",
+      "updatedAt": "2026-10-04T04:47:52+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T04:47:52+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 358,
+      "company": "VinMotion",
+      "title": "Research Scientist",
+      "location": "Cypress, California, United States",
+      "url": "https://vinmotion.net/career/research-scientist",
+      "category": "Research & Applied AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T04:40:31+00:00",
+      "updatedAt": "2026-10-04T04:52:17+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T04:52:17+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 359,
+      "company": "Apple",
+      "title": "Machine Learning Engineer - On-Device Control and Optimization",
+      "location": "Seattle, Washington, United States",
+      "url": "https://jobs.apple.com/en-us/details/200676105/machine-learning-engineer-on-device-control-and-optimization",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T04:45:40+00:00",
+      "updatedAt": "2026-10-04T05:00:53+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T05:00:53+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 360,
+      "company": "DreamVu",
+      "title": "Robotics Research Scientist — US role interest",
+      "location": "Palo Alto, California / Philadelphia, Pennsylvania",
+      "url": "https://www.dreamvu.ai/careers",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:03:21+00:00",
+      "updatedAt": "2026-10-04T05:19:06+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T05:19:06+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 361,
+      "company": "Ropedia",
+      "title": "US Full-time Robot-Learning Research and Engineering — General Interest",
+      "location": "US opportunity sought; Mountain View company office verified",
+      "url": "https://ropedia.com/",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:04:50+00:00",
+      "updatedAt": "2026-10-04T05:27:09+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T05:27:09+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 362,
+      "company": "Meta",
+      "title": "Research Engineer, Robotics - Meta Superintelligence Labs",
+      "location": "Menlo Park, CA, United States",
+      "url": "https://www.metacareers.com/profile/job_details/1436360758394361",
+      "category": "Robotics & Physical AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:06:03+00:00",
+      "updatedAt": "2026-10-04T05:23:53+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-04T05:23:53+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 363,
+      "company": "TouchTronix Robotics",
+      "title": "Robot Learning and Robotics Software — US full-time general interest",
+      "location": "Not specified",
+      "url": "https://www.touchtronix.io/careers",
+      "category": "Robotics & Physical AI",
+      "status": "applying",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:12:44+00:00",
+      "updatedAt": "2026-10-04T05:32:07+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-04T05:32:07+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "unconfirmed",
+        "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 364,
+      "company": "Qualisys",
+      "title": "Robotics and Motion Evaluation Software — US full-time future interest",
+      "location": "Not specified",
+      "url": "https://www.qualisys.com/about/careers",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:17:45+00:00",
+      "updatedAt": "2026-10-04T05:28:02+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 365,
+      "company": "BionIT Labs",
+      "title": "Robotics Software and Learning — US full-time future interest",
+      "location": "Not specified",
+      "url": "https://bionitlabs.com/us/contact-us",
+      "category": "Robotics & Physical AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:28:02+00:00",
+      "updatedAt": "2026-10-04T05:28:02+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 366,
+      "company": "Intuitive",
+      "title": "Software Engineer - Build and Release.",
+      "location": "Sunnyvale, CA, United States",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000149923349-software-engineer-build-and-release-",
+      "category": "Software & Infrastructure",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-04T05:29:31+00:00",
+      "updatedAt": "2026-10-04T05:29:31+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
       }
     }
   ]
