@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T06:57:34.637918+00:00",
+  "updatedAt": "2026-10-05T18:02:16.217770+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -9964,14 +9964,14 @@
       "id": 336,
       "company": "Together AI",
       "title": "Software Engineer, New Grad (2027)",
-      "location": "San Francisco, CA",
+      "location": "San Francisco",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
       "category": "Software & Infrastructure",
       "status": "submitted",
       "submittedAt": "2026-10-02T07:55:55+00:00",
       "submittedDay": "2026-10-02",
       "addedAt": "2026-10-02T07:45:45+00:00",
-      "updatedAt": "2026-10-02T07:55:55+00:00",
+      "updatedAt": "2026-10-05T17:50:14+00:00",
       "history": [
         {
           "status": "applying",
@@ -10527,21 +10527,43 @@
       "location": "Cypress, California, United States",
       "url": "https://vinmotion.net/career/research-scientist",
       "category": "Research & Applied AI",
-      "status": "applying",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "interview",
+      "submittedAt": "2026-10-05T17:52:46+00:00",
+      "submittedDay": "2026-10-05",
       "addedAt": "2026-10-04T04:40:31+00:00",
-      "updatedAt": "2026-10-04T04:52:17+00:00",
+      "updatedAt": "2026-10-05T17:52:47+00:00",
       "history": [
         {
           "status": "applying",
           "at": "2026-10-04T04:52:17+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-05T17:52:46+00:00"
+        },
+        {
+          "status": "interview",
+          "at": "2026-10-05T17:52:47+00:00"
         }
       ],
-      "milestones": [],
+      "milestones": [
+        {
+          "at": "2026-10-05T17:52:47+00:00",
+          "progress": {
+            "stage": "interview",
+            "round": 1,
+            "roundType": "hiring_manager",
+            "roundState": "invited",
+            "nextAction": "book_interview"
+          }
+        }
+      ],
       "progress": {
-        "stage": "unconfirmed",
-        "nextAction": "verify_receipt"
+        "stage": "interview",
+        "round": 1,
+        "roundType": "hiring_manager",
+        "roundState": "invited",
+        "nextAction": "book_interview"
       }
     },
     {
@@ -10703,21 +10725,25 @@
       "location": "Not specified",
       "url": "https://bionitlabs.com/us/contact-us",
       "category": "Robotics & Physical AI",
-      "status": "applying",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-05T17:52:47+00:00",
+      "submittedDay": "2026-10-05",
       "addedAt": "2026-10-04T05:28:02+00:00",
-      "updatedAt": "2026-10-04T06:02:02+00:00",
+      "updatedAt": "2026-10-05T17:52:47+00:00",
       "history": [
         {
           "status": "applying",
           "at": "2026-10-04T06:02:02+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-05T17:52:47+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "unconfirmed",
-        "nextAction": "verify_receipt"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -10962,6 +10988,101 @@
       "progress": {
         "stage": "unconfirmed",
         "nextAction": "verify_receipt"
+      }
+    },
+    {
+      "id": 376,
+      "company": "Pinterest",
+      "title": "PhD University Grad Machine Learning Engineer (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "url": "https://www.pinterestcareers.com/jobs?gh_jid=8140363",
+      "category": "Machine Learning",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-05T17:50:14+00:00",
+      "updatedAt": "2026-10-05T17:50:14+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 377,
+      "company": "Roblox",
+      "title": "[2027] Software Engineer, Early Career",
+      "location": "San Mateo, CA, United States",
+      "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
+      "category": "Software & Infrastructure",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-05T17:50:14+00:00",
+      "updatedAt": "2026-10-05T17:50:14+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 378,
+      "company": "Stripe",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "category": "Software & Infrastructure",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-05T17:50:14+00:00",
+      "updatedAt": "2026-10-05T17:50:14+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 379,
+      "company": "ISEE",
+      "title": "Research Scientist - Machine Learning",
+      "location": "Remote, US",
+      "url": "https://jobs.lever.co/isee/e2bf123f-0d23-46b7-b48b-bf421f46d37b",
+      "category": "Research & Applied AI",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-05T17:53:29+00:00",
+      "updatedAt": "2026-10-05T17:53:29+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 380,
+      "company": "Torc Robotics",
+      "title": "Machine Learning Engineer II - Learned Planning (Reinforcement Learning)",
+      "location": "Remote - US, Ann Arbor, MI",
+      "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8852888002",
+      "category": "RL & Language Models",
+      "status": "discovered",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-05T17:53:29+00:00",
+      "updatedAt": "2026-10-05T17:53:29+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
       }
     }
   ]
