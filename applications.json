@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T05:13:17.815367+00:00",
+  "updatedAt": "2026-10-08T05:42:23.408390+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -5615,7 +5615,7 @@
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-09-08T05:10:56+00:00",
-      "updatedAt": "2026-10-05T18:54:22+00:00",
+      "updatedAt": "2026-10-08T05:27:37+00:00",
       "history": [
         {
           "status": "draft",
@@ -9849,21 +9849,29 @@
       "location": "Mountain View, CA",
       "url": "https://jobs.ashbyhq.com/fortyfive/8c328efb-efe2-4345-af6b-58533db23a2b",
       "category": "Robotics & Physical AI",
-      "status": "needs_input",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:18:58+00:00",
+      "submittedDay": "2026-10-08",
       "addedAt": "2026-10-02T07:29:09+00:00",
-      "updatedAt": "2026-10-02T08:12:00+00:00",
+      "updatedAt": "2026-10-08T05:18:58+00:00",
       "history": [
         {
           "status": "needs_input",
           "at": "2026-10-02T08:12:00+00:00"
+        },
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:18:58+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:18:58+00:00"
         }
       ],
       "milestones": [],
       "progress": {
-        "stage": "input_needed",
-        "nextAction": "complete_application"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -11519,16 +11527,25 @@
       "location": "Remote US & Canada",
       "url": "https://jobs.lever.co/waabi/b8498714-0bac-43bc-9483-f2e280547ebe",
       "category": "Research & Applied AI",
-      "status": "reviewed",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-08T04:56:53+00:00",
-      "updatedAt": "2026-10-08T04:56:53+00:00",
-      "history": [],
+      "updatedAt": "2026-10-08T05:13:48+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:13:48+00:00"
+        },
+        {
+          "status": "needs_input",
+          "at": "2026-10-08T05:13:48+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -11585,16 +11602,25 @@
       "location": "South San Francisco, CA",
       "url": "https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003",
       "category": "Robotics & Physical AI",
-      "status": "shortlisted",
-      "submittedAt": null,
-      "submittedDay": null,
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:18:10+00:00",
+      "submittedDay": "2026-10-08",
       "addedAt": "2026-10-08T05:09:00+00:00",
-      "updatedAt": "2026-10-08T05:09:00+00:00",
-      "history": [],
+      "updatedAt": "2026-10-08T05:18:10+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:18:10+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:18:10+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     },
     {
@@ -11619,20 +11645,361 @@
     {
       "id": 402,
       "company": "General Robotics",
-      "title": "Manipulation",
+      "title": "Robotics Engineer - Manipulation focus",
       "location": "Redmond, WA",
       "url": "https://jobs.ashbyhq.com/generalrobotics/fe8a5cf8-0932-49a5-9a29-82b7a9d9dac2",
-      "category": "Software & Infrastructure",
-      "status": "shortlisted",
-      "submittedAt": null,
-      "submittedDay": null,
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:19:33+00:00",
+      "submittedDay": "2026-10-08",
       "addedAt": "2026-10-08T05:11:28+00:00",
-      "updatedAt": "2026-10-08T05:11:28+00:00",
-      "history": [],
+      "updatedAt": "2026-10-08T05:20:29+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:19:33+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:19:33+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 403,
+      "company": "Bedrock Robotics",
+      "title": "2027 Internship Behavior ML Engineer, Learned Manipulation Policies",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/bedrock-robotics/96a6423e-7439-4cb4-9109-117b14e47f7c",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:20:29+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:13:48+00:00",
+      "updatedAt": "2026-10-08T05:20:29+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:20:29+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:20:29+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 404,
+      "company": "Rhoda",
+      "title": "Robot Software Engineer Internship",
+      "location": "California, USA",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:27:04+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:17:03+00:00",
+      "updatedAt": "2026-10-08T05:27:04+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:27:04+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:27:04+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 405,
+      "company": "Skild AI",
+      "title": "Robotics Engineer, Deployment & Testing - San Mateo",
+      "location": "California, USA",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5162584008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:27:23+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:17:03+00:00",
+      "updatedAt": "2026-10-08T05:30:24+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:27:23+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:27:23+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 406,
+      "company": "Skild AI",
+      "title": "Robotics Application Engineer",
+      "location": "California, USA",
+      "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5228768008",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:30:24+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:17:03+00:00",
+      "updatedAt": "2026-10-08T05:30:24+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:30:24+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:30:24+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 407,
+      "company": "Persona AI",
+      "title": "Autonomy Software Engineering Internship, World Modeling",
+      "location": "Houston, TX",
+      "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:29:56+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:21:04+00:00",
+      "updatedAt": "2026-10-08T05:30:24+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:29:56+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:29:56+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 408,
+      "company": "Persona AI",
+      "title": "Robotics Machine Learning Engineer",
+      "location": "Houston, TX",
+      "url": "https://jobs.ashbyhq.com/persona.ai/b211bb98-0522-4d48-8f05-5df4b164dee2",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:30:59+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:22:34+00:00",
+      "updatedAt": "2026-10-08T05:30:59+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:30:59+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:30:59+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 409,
+      "company": "Genesis",
+      "title": "Simulation Environment",
+      "location": "California, USA",
+      "url": "https://jobs.ashbyhq.com/genesis/3cc5a4c4-0f7f-4753-8257-33c5055436f0",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:32:43+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:25:51+00:00",
+      "updatedAt": "2026-10-08T05:32:43+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:32:43+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:32:43+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 410,
+      "company": "Dyna Robotics",
+      "title": "Exceptional Software Engineer",
+      "location": "California, USA",
+      "url": "https://jobs.ashbyhq.com/dyna-robotics/9f1fb776-9d59-4725-9749-6a529cbdfada",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:37:02+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:25:51+00:00",
+      "updatedAt": "2026-10-08T05:37:02+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:37:02+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:37:02+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 411,
+      "company": "Dyna Robotics",
+      "title": "Software Engineer, Applications",
+      "location": "California, USA",
+      "url": "https://jobs.ashbyhq.com/dyna-robotics/bc58be77-e81e-4a39-bdbb-257b8f4f0dfd",
+      "category": "Software & Infrastructure",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:37:47+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:25:51+00:00",
+      "updatedAt": "2026-10-08T05:37:47+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:37:47+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:37:47+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 412,
+      "company": "Sunday",
+      "title": "Software Engineer, Robot Behaviors",
+      "location": "California, USA",
+      "url": "https://jobs.ashbyhq.com/sunday/3fed3a04-8a4a-4704-9e7f-bfee9c151d1c",
+      "category": "Robotics & Physical AI",
+      "status": "expired",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-08T05:28:09+00:00",
+      "updatedAt": "2026-10-08T05:39:45+00:00",
+      "history": [
+        {
+          "status": "expired",
+          "at": "2026-10-08T05:39:45+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "closed",
+        "nextAction": "none"
+      }
+    },
+    {
+      "id": 413,
+      "company": "Genesis",
+      "title": "Genesis-World: Core Simulation Engine Engineer",
+      "location": "California, USA",
+      "url": "https://jobs.ashbyhq.com/genesis/490c5852-217d-47b9-ae59-677c483ee9c6",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:39:25+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:28:09+00:00",
+      "updatedAt": "2026-10-08T05:39:25+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:39:25+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:39:25+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 414,
+      "company": "Sunday Robotics",
+      "title": "Robotics Systems Software Integration Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://jobs.ashbyhq.com/sunday/bd525705-1430-4f45-adb2-888165d45aa6",
+      "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-08T05:42:23+00:00",
+      "submittedDay": "2026-10-08",
+      "addedAt": "2026-10-08T05:38:40+00:00",
+      "updatedAt": "2026-10-08T05:42:23+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-08T05:42:23+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-08T05:42:23+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
       }
     }
   ]
