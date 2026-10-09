@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T04:28:38.893924+00:00",
+  "updatedAt": "2026-10-09T17:37:50.280492+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -12116,11 +12116,77 @@
       "location": "Menlo Park, CA",
       "url": "https://www.metacareers.com/profile/job_details/2058939638096096",
       "category": "Robotics & Physical AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-09T04:33:58+00:00",
+      "submittedDay": "2026-10-09",
+      "addedAt": "2026-10-09T04:25:23+00:00",
+      "updatedAt": "2026-10-09T04:33:58+00:00",
+      "history": [
+        {
+          "status": "draft",
+          "at": "2026-10-09T04:33:58+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-09T04:33:58+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 420,
+      "company": "Microsoft",
+      "title": "Data Scientist",
+      "location": "United States, remote",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556941429",
+      "category": "Research & Applied AI",
       "status": "shortlisted",
       "submittedAt": null,
       "submittedDay": null,
-      "addedAt": "2026-10-09T04:25:23+00:00",
-      "updatedAt": "2026-10-09T04:25:23+00:00",
+      "addedAt": "2026-10-09T04:35:07+00:00",
+      "updatedAt": "2026-10-09T04:35:07+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 421,
+      "company": "Meta",
+      "title": "Research Scientist, Machine Learning for Monetization (PhD)",
+      "location": "Sunnyvale, CA and other US locations",
+      "url": "https://www.metacareers.com/profile/job_details/1747806499828365",
+      "category": "Research & Applied AI",
+      "status": "shortlisted",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-09T04:35:22+00:00",
+      "updatedAt": "2026-10-09T04:35:22+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 422,
+      "company": "NVIDIA",
+      "title": "Research Scientist, Autonomous Systems and Physical AI Research - PhD New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Autonomous-Systems-and-Physical-AI-Research---PhD-New-College-Grad-2026_JR2027551",
+      "category": "Robotics & Physical AI",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-09T17:34:47+00:00",
+      "updatedAt": "2026-10-09T17:34:47+00:00",
       "history": [],
       "milestones": [],
       "progress": {
