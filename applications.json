@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T17:37:50.280492+00:00",
+  "updatedAt": "2026-10-10T05:21:03.012608+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -12059,16 +12059,21 @@
       "location": "Bellevue, WA",
       "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
       "category": "RL & Language Models",
-      "status": "shortlisted",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-09T04:16:15+00:00",
-      "updatedAt": "2026-10-09T04:16:15+00:00",
-      "history": [],
+      "updatedAt": "2026-10-10T05:18:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-10T05:18:17+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -12078,16 +12083,21 @@
       "location": "San Mateo, CA",
       "url": "https://careers.roblox.com/jobs/8242623",
       "category": "Machine Learning",
-      "status": "shortlisted",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-09T04:24:13+00:00",
-      "updatedAt": "2026-10-09T04:24:13+00:00",
-      "history": [],
+      "updatedAt": "2026-10-10T05:18:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-10T05:18:17+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -12097,16 +12107,21 @@
       "location": "San Jose, CA; multiple US locations",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085",
       "category": "Machine Learning",
-      "status": "shortlisted",
+      "status": "needs_input",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-09T04:24:13+00:00",
-      "updatedAt": "2026-10-09T04:24:13+00:00",
-      "history": [],
+      "updatedAt": "2026-10-10T05:18:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-10T05:18:17+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     },
     {
@@ -12144,16 +12159,21 @@
       "location": "United States, remote",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556941429",
       "category": "Research & Applied AI",
-      "status": "shortlisted",
+      "status": "expired",
       "submittedAt": null,
       "submittedDay": null,
       "addedAt": "2026-10-09T04:35:07+00:00",
-      "updatedAt": "2026-10-09T04:35:07+00:00",
-      "history": [],
+      "updatedAt": "2026-10-10T05:18:18+00:00",
+      "history": [
+        {
+          "status": "expired",
+          "at": "2026-10-10T05:18:18+00:00"
+        }
+      ],
       "milestones": [],
       "progress": {
-        "stage": "preparing",
-        "nextAction": "review_role"
+        "stage": "closed",
+        "nextAction": "none"
       }
     },
     {
@@ -12192,6 +12212,158 @@
       "progress": {
         "stage": "preparing",
         "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 423,
+      "company": "Tutor Intelligence",
+      "title": "Research Engineer",
+      "location": "Watertown, MA",
+      "url": "https://jobs.lever.co/tutorintelligence/f772d72b-0662-410e-b708-ce7ed3b7f163",
+      "category": "Research & Applied AI",
+      "status": "submitted",
+      "submittedAt": "2026-10-10T04:54:43+00:00",
+      "submittedDay": "2026-10-10",
+      "addedAt": "2026-10-10T04:46:21+00:00",
+      "updatedAt": "2026-10-10T04:54:43+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-10T04:53:47+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-10T04:54:43+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 424,
+      "company": "Handshake",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f",
+      "category": "Machine Learning",
+      "status": "submitted",
+      "submittedAt": "2026-10-10T05:07:04+00:00",
+      "submittedDay": "2026-10-10",
+      "addedAt": "2026-10-10T04:57:44+00:00",
+      "updatedAt": "2026-10-10T05:07:04+00:00",
+      "history": [
+        {
+          "status": "applying",
+          "at": "2026-10-10T05:06:23+00:00"
+        },
+        {
+          "status": "submitted",
+          "at": "2026-10-10T05:07:04+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "awaiting_review",
+        "nextAction": "wait"
+      }
+    },
+    {
+      "id": 425,
+      "company": "Figma",
+      "title": "PhD Intern, AI Applied Scientist (2027)",
+      "location": "San Francisco, CA; New York, NY",
+      "url": "https://job-boards.greenhouse.io/figma/jobs/6207801004",
+      "category": "Research & Applied AI",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-10T04:57:44+00:00",
+      "updatedAt": "2026-10-10T05:18:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-10T05:18:17+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 426,
+      "company": "Miter",
+      "title": "Software Engineer (New Grad)",
+      "location": "New York City; San Francisco",
+      "url": "https://jobs.ashbyhq.com/miter/f4567649-a0eb-445d-bd00-a0673a26ec6d",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-10T05:08:40+00:00",
+      "updatedAt": "2026-10-10T05:18:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-10T05:18:17+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 427,
+      "company": "ServiceNow",
+      "title": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+      "location": "Mountain View, California",
+      "url": "https://careers.servicenow.com/jobs/744000153279380/software-engineer-core-infrastructure-moveworks-new-grad",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-10T05:11:57+00:00",
+      "updatedAt": "2026-10-10T05:18:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-10T05:18:17+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 428,
+      "company": "Lucid Motors",
+      "title": "Software Engineer, ADAS Behavior Planning and Integration",
+      "location": "Newark, CA",
+      "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
+      "category": "Software & Infrastructure",
+      "status": "needs_input",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-10T05:15:00+00:00",
+      "updatedAt": "2026-10-10T05:18:17+00:00",
+      "history": [
+        {
+          "status": "needs_input",
+          "at": "2026-10-10T05:18:17+00:00"
+        }
+      ],
+      "milestones": [],
+      "progress": {
+        "stage": "input_needed",
+        "nextAction": "complete_application"
       }
     }
   ]
