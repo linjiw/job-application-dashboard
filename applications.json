@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T18:40:57.139437+00:00",
+  "updatedAt": "2026-10-11T22:29:00.163862+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -12454,6 +12454,25 @@
       "submittedDay": null,
       "addedAt": "2026-10-11T18:37:13+00:00",
       "updatedAt": "2026-10-11T18:37:13+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
+      }
+    },
+    {
+      "id": 433,
+      "company": "NVIDIA",
+      "title": "Performance Engineer, Deep Learning and HPC",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095",
+      "category": "Machine Learning",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-11T22:24:36+00:00",
+      "updatedAt": "2026-10-11T22:24:36+00:00",
       "history": [],
       "milestones": [],
       "progress": {
