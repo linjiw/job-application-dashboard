@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T05:30:20.307178+00:00",
+  "updatedAt": "2026-10-11T18:40:57.139437+00:00",
   "timezone": "America/New_York",
   "dailyGoal": 20,
   "applications": [
@@ -12440,6 +12440,25 @@
       "progress": {
         "stage": "input_needed",
         "nextAction": "complete_application"
+      }
+    },
+    {
+      "id": 432,
+      "company": "NVIDIA",
+      "title": "C++ Software Engineer, Infrastructure Tools - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+      "category": "Software & Infrastructure",
+      "status": "reviewed",
+      "submittedAt": null,
+      "submittedDay": null,
+      "addedAt": "2026-10-11T18:37:13+00:00",
+      "updatedAt": "2026-10-11T18:37:13+00:00",
+      "history": [],
+      "milestones": [],
+      "progress": {
+        "stage": "preparing",
+        "nextAction": "review_role"
       }
     }
   ]
